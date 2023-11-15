@@ -1,0 +1,375 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WD Etats
+ major_version : 28
+ minor_version : 0
+ type : 4097
+ description : Projet WD Etats
+ subtype : 0
+project :
+ identifier : 0x0
+ internal_properties : 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
+ configurations :
+  -
+    name : WD Etats
+    internal_properties : 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
+    configuration_id : 131542015695724745
+    type : 1
+    generation_name : WD Etats.exe
+    version :
+     version : VI200027
+     internal_generation_version : 4
+     autoincrement_version : false
+    icon_filename : .\description.ico
+    language : 1
+ elements :
+  identifier : 0x4acc56510043adcc
+  elements :
+   -
+     name : ETAT_COMPOSITE_SIMPLE
+     identifier : 0x4cea7dfd002903ae
+     internal_properties : CAAAAAgAAABIxrBsWwAoMz+uA18vmsj0RHUT+86gQU+uJe3viYcV8x3Fuq9wUOVcXMM9u3t1DYNN1Q==
+     physical_name : .\ETAT_COMPOSITE_SIMPLE.wde
+     type : 3
+   -
+     name : REQ_CALCUL
+     identifier : 0x3db3cb0f1058e89e
+     internal_properties : CAAAAAgAAAACeHquHUri/UX4qcGBxWoaZgk1VeqaKjKOf/Hwsu6uCjbkWw4W6nvyJh2HcTGvS70HDw==
+     physical_name : .\REQ_CALCUL.WDR
+     type : 5
+   -
+     name : ETAT_COMPOSITE_INTEGRE
+     identifier : 0x4604fed801099e5d
+     internal_properties : CAAAAAgAAAB3019DYN1VVmOVERdVOPB555beRn/J602iyHIafLTeAgIieaVh4BjCQPji3qZaJppi4g==
+     physical_name : .\ETAT_COMPOSITE_INTEGRE.wde
+     type : 3
+   -
+     name : Etat_Affaire
+     identifier : 0x4fc90e920189baee
+     internal_properties : CAAAAAgAAADlYc3R7oujvFZqSUEpXOjuVSIIOIv1ExWuVaErf4GVC/3XNYUBOKpoY87IMPDgmAjwcA==
+     physical_name : .\Etat_Affaire.wde
+     type : 3
+   -
+     name : Etat_Graphe
+     identifier : 0x4fc90ea8018f1226
+     internal_properties : CAAAAAgAAADUsjx4Rzx0d28zBtR2/5OVZDszu5PpxS92he3SlWoiNoZ47iRuk3W1vJcB/4d5AffBQQ==
+     physical_name : .\Etat_Graphe.wde
+     type : 3
+   -
+     name : Etat_Portrait
+     identifier : 0x476171a000017702
+     internal_properties : CAAAAAgAAAAeBHYqmcZuAcl8HVU1nT5+Ws0JeU4AdUOi5MoC4g6GWu4ss7ZyVu9mqpEL9b0zz8ELCw==
+     physical_name : .\Etat_Portrait.wde
+     type : 3
+   -
+     name : REQ_CLIENT
+     identifier : 0x40a4e933007730c4
+     internal_properties : CAAAAAgAAADSKAoerZqSTRXIuXERe2Z2xlU9pZYuZbKCHsveJHyQULByxaSGegsCNu3XIeEf2803Pw==
+     physical_name : .\REQ_CLIENT.WDR
+     type : 5
+   -
+     name : Etat_TableMémoire
+     identifier : 0x4fc90ecd0197a146
+     internal_properties : CAAAAAgAAAAsKgQQr9RcD2c7HuHuD4yzvj1FHa2z41lWvZtsb4CcZJxWLHURMH29tJ8Z568h2c85OQ==
+     physical_name : .\Etat_TableMemoire.wde
+     type : 3
+   -
+     name : Etat_Saisie
+     identifier : 0x476164670000ce92
+     internal_properties : CAAAAAgAAAAGDG6ycS6GqbFUhd2t6rJaKk/pyR8Vn0WqAHSLuGct03mllkP6zmfe0kmzDZVLN6kTEw==
+     physical_name : .\Etat_Saisie.wde
+     type : 3
+   -
+     name : ProcéduresGlobales
+     identifier : 0x4b0be9be00bbc68a
+     internal_properties : CAAAAAgAAACU8vw4h/y0twOyZ7PTO4yomJvXzwsRw4m2dcNEi2QoyEzyaXDMPMlAcNfBP8c5wTeBgQ==
+     physical_name : .\ProceduresGlobales.wdg
+     type : 7
+   -
+     name : REQ_CATEGORIES_UTILISEES
+     identifier : 0x4f38eb6c002c4ae1
+     internal_properties : CAAAAAgAAABKwLJWVRIaxY0w0Yn5HSKiHgF9bWmWiGRSOiqBWSb28t4sc2beIrOq7lVPqWlnE4VP1w==
+     physical_name : .\REQ_CATEGORIES_UTILISEES.WDR
+     type : 5
+   -
+     name : Etat_FichierTexteAuto
+     identifier : 0x4fc90ea3018dfcc9
+     internal_properties : CAAAAAgAAACKgPKWFVLahemxgA1kawUc5qn11eE3+p6uk426Mf6eWuZ0UbvNdO8vOhWPaSmnU0WPlw==
+     physical_name : .\Etat_FichierTexteAuto.wde
+     type : 3
+   -
+     name : Etat_Paysage
+     identifier : 0x476171ed0002a3fa
+     internal_properties : CAAAAAgAAAA1ER0BvpuTTBq5agJCiKHNORYMLI/xd7amR+krf4GdC+U/Gt9VqzozZ97YIOAQ6NggIA==
+     physical_name : .\Etat_Paysage.wde
+     type : 3
+   -
+     name : Etat_FichierTexte
+     identifier : 0x4fc90e9c018be411
+     internal_properties : CAAAAAgAAAC5leElgv+3uKJmtU/VKiKlQ8aCmi8JQ7KiuFx4nmKwGJRo73UbJqZkb9rEPMQ8xDScpA==
+     physical_name : .\Etat_FichierTexte.wde
+     type : 3
+   -
+     name : FEN_ImpressionMémoire
+     identifier : 0x4fc90e800173754a
+     internal_properties : CAAAAAgAAACIhvCsG0Do8xsvcvhizxI9FDVTS32TfsBy4mjnwH8dy2X9aRxqX2GhqIN9ezu1TUONlQ==
+     physical_name : .\FEN_ImpressionMemoire.wdw
+     type : 2
+   -
+     name : REQ_CATEGORIE
+     identifier : 0x3db3cafe67e1e727
+     internal_properties : CAAAAAgAAABh3VlNeiePoK4dvnYWnzWppYB8fLGRkwB2JbV8lPyeqgb6Q6aRdw4HCzKsFJxULJxk7A==
+     physical_name : .\REQ_CATEGORIE.WDR
+     type : 5
+   -
+     name : Etat_GrapheInterne
+     identifier : 0x4fc90eb0019130f8
+     internal_properties : CAAAAAgAAABNyaX5xrP7JF5ise+hfK5kGVrURBf8y6idZ8kQYctDpWtRhav7zqJga8YwiAj4gHBY2A==
+     physical_name : .\Etat_GrapheInterne.wde
+     type : 3
+   -
+     name : Etat_Interne
+     identifier : 0x4fc90ebb01935a4b
+     internal_properties : CAAAAAgAAACehPaqGUbugZW9nFHwnbMSciF50eKE3gGuJTSYXLTgGCAiBcXZIPs7NhGLdT2zT0GLiw==
+     physical_name : .\Etat_Interne.wde
+     type : 3
+   -
+     name : Etat_DataBinding
+     identifier : 0x4b0be8a300b87417
+     internal_properties : CAAAAAgAAAC+pJaKOWZOYWncfbXVU9rqKrkhqblvsLR2JXdIExx4cFia/WzSNs9GSvHr1V2Tb2Grqw==
+     physical_name : .\Etat_DataBinding.wde
+     type : 3
+   -
+     name : FEN_Menu
+     identifier : 0x3db3cb1a7511e959
+     internal_properties : CAAAAAgAAADrZ9M39LH5IiyfNOiYRzNLvy6mviKVISib8OyP/0zGCsoKV5K/AZSNjbQuigrGsibudg==
+     physical_name : .\FEN_Menu.wdw
+     type : 2
+   -
+     name : MOD_ETAT_BASE
+     identifier : 0x4fd1f479025f7b27
+     internal_properties : CAAAAAgAAABUMrz4x7z09++7bG2D6yh2QnE5ccFfdlSO23NUd6hsnKxGnV78Dvs9PBeBfwf5gXdBwQ==
+     physical_name : .\MOD_ETAT_BASE.wte
+     type : 21
+   -
+     name : Etat_Requête
+     identifier : 0x4fc90ec401957f95
+     internal_properties : CAAAAAgAAAAhHRkNuufP4Aoe/b+NbG0d8/xOXmSqs3KipqCnBil1U+EPoO+7Bt4c13JsVNwU7NwkLA==
+     physical_name : .\Etat_Requete.wde
+     type : 3
+   -
+     name : TEST_ProcéduresGlobales
+     identifier : 0x426fbbb800c91a70
+     internal_properties : CAAAAAgAAACV8f0hnvuz7PpZiiKiBZX5AXCIgEDGbQFWLSvcTfIgOIBgHUz1y1rTx354QMAwyDiAgA==
+     physical_name : .\TEST_ProcéduresGlobales.wxt
+     type : 17
+   -
+     name : REQ_SELECT_PRODUIT_PRIX_BASE
+     identifier : 0x4602b801008ce7ae
+     internal_properties : CAAAAAgAAADQLggUk8hge8Y2XidLEsq/QjG58V9vC5GiBk9O5cjMPIxmBOOoUME3o5sF87Mt1cs1PQ==
+     physical_name : .\REQ_SELECT_PRODUIT_PRIX_BASE.WDR
+     type : 5
+   -
+     name : REQ_SELECT_COMMANDE
+     identifier : 0x4603ba9f008e2320
+     internal_properties : CAAAAAgAAAA/GxcLuOXN3uvsKwDoGa/iF2pmTpgnvH12RQjxcwoA8MQYJn0CPjGRyHBqVt4S7uIqKg==
+     physical_name : .\REQ_SELECT_COMMANDE.WDR
+     type : 5
+   -
+     name : ETAT_Totaux_bas_page
+     identifier : 0x4603bafe00909405
+     internal_properties : CAAAAAgAAADjX9vP/KkBGicoZ1O0F4JxE0D+1vhs2y5Ox8eftHsb1X+Bpu6XYX1dhLwmkhLOqh7mbg==
+     physical_name : .\ETAT_Totaux_bas_page.wde
+     type : 3
+   -
+     name : ETAT_Planning
+     identifier : 0x4603fb6a015b384f
+     internal_properties : CAAAAAgAAADDvztvXAkhOofIWNsHNBiBTTzETH3XC+6mR7RgOvakvATsZVMZINp95FxGsnJuCv7GTg==
+     physical_name : .\ETAT_Planning.wde
+     type : 3
+   -
+     name : FEN_Planning
+     identifier : 0x4603fb6a015d390b
+     internal_properties : CAAAAAgAAAABfXmtGkfvgEmOCmn1DMf384yunjTyBtCiNmRbEj3RBz3TGi8zzoyvKhKMdDy0TLwEDA==
+     physical_name : .\FEN_Planning.wdw
+     type : 2
+   -
+     name : FI_WinDevVueRDV
+     identifier : 0x4604078a01b59908
+     internal_properties : CAAAAAgAAACJhfGVEk/niFHHmAdxyB1Ok+BOZli2sQFSKiolgL/XyTuVlfTCf+sw8iqUbDSsVESMlA==
+     physical_name : .\FI_WinDevVueRDV.wdw
+     type : 8
+   -
+     name : REQ_SELECT_PRODUIT
+     identifier : 0x460503c2006ad186
+     internal_properties : CAAAAAgAAABcOrTg34Ssvwp9y3ZNojBPVgc9FRaJY2W2+aWmXTnbFT/H/0In2fnWV8/JN//xiX9JyQ==
+     physical_name : .\REQ_SELECT_PRODUIT.WDR
+     type : 5
+   -
+     name : ETAT_FicheProduit
+     identifier : 0x460503e3006c527e
+     internal_properties : CAAAAAgAAAAyCGq+jfqy7fQ7jd2TSqmPHl+lPYeb7bK2tTMjJvkbJZ8XZ+twSLsYlY13QcE/O60XHw==
+     physical_name : .\ETAT_FicheProduit.wde
+     type : 3
+   -
+     name : Etat_DataBinding_DeuxColonnes
+     identifier : 0x46051a4e0114e39b
+     internal_properties : CAAAAAgAAACno4+TEE3lhlPGr9MJLyOhYQIsjErQOOSiJhI9DOMrzXOZIDPSLy8z8CiSbjaqVkqysg==
+     physical_name : .\Etat_DataBinding_DeuxColonnes.wde
+     type : 3
+   -
+     name : FEN_SortieImpression
+     identifier : 0x4fc90e87017e8f59
+     internal_properties : CAAAAAgAAABt6UVZZtNbBH5CESZ50VvztdKIKLcp6uJWqCLPd9VB7wkbHOOEhQLAi6YQ6KhYIJB4+A==
+     physical_name : .\Fen_SortieImpression.wdw
+     type : 2
+   -
+     name : ETAT_Facture_classique
+     identifier : 0x4608f4d200627893
+     internal_properties : CAAAAAgAAAD1Ud3B/lvTjEW/AYe+G6Y/4+Lq8upWI21O5+q0h4gCxgbOyz0S7tTIJh6YYCDQqBjgYA==
+     physical_name : .\ETAT_Facture_classique.wde
+     type : 3
+   -
+     name : ETAT_BonCommande_classique
+     identifier : 0x4608fb540064e26f
+     internal_properties : CAAAAAgAAACOlOY6Cbb+MThij+B3ttVkvBMbE7LgNJGKfPXOBOIqnm5AL6PAQAQvWcE7hQ3DvzGbmw==
+     physical_name : .\ETAT_BonCommande_classique.wde
+     type : 3
+   -
+     name : REQ_SELECT_BONCOMMANDE
+     identifier : 0x4608fb7c00668229
+     internal_properties : CAAAAAgAAADfufWRYl9vDGTyi6HwiHW+a3/wOpdeE+FO/BzvxWHwEhp4yiVzbptAxgLtirVV4sla
+     physical_name : .\REQ_SELECT_BONCOMMANDE.WDR
+     type : 5
+   -
+     name : FEN_Champ_Tableur
+     identifier : 0x46090ec201e8c938
+     internal_properties : CAAAAAgAAABUMrz4x7z090KJJkps1pL/EA3PpwwTtCBwiFTyGQ0H2W+j8ViTttzCLxeBfwf5gXdBwQ==
+     physical_name : .\FEN_Champ_Tableur.wdw
+     type : 2
+   -
+     name : FEN_Champ_Tableau_Croisé_Dynamique_TCD
+     identifier : 0x46090f0d01edeefb
+     internal_properties : CAAAAAgAAADLRzPX1JGZQg92+CI/5vCX7+y64sRq+LpKLCItCAeXAfvVIM4s1ZgDbNTOKurmkgbOVg==
+     physical_name : .\FEN_Champ_Tableau_Croisé_Dynamique_TCD.wdw
+     type : 2
+   -
+     name : ETAT_TableauCroiséDynamique
+     identifier : 0x4609112101f20c50
+     internal_properties : CAAAAAgAAABg3lhEY9hQC9ZNjek28jtVyunxaWn/eiN2BQ8wK8TQGNACUsoX6icWc6sV46NdJZtl7Q==
+     physical_name : .\ETAT_TableauCroiséDynamique.wde
+     type : 3
+   -
+     name : ETAT_Tableur
+     identifier : 0x46091759009c580a
+     internal_properties : CAAAAAgAAABn409TUA0lxpMKtELySWzwoyJ6ohooSDGuY41yS8RWQroK/moz1XRXsGhSrnZqFopy8g==
+     physical_name : .\ETAT_Tableur.wde
+     type : 3
+   -
+     name : ETAT_Etiquettes
+     identifier : 0x46be0de1007659a6
+     internal_properties : CAAAAAgAAADFQS1xzuvD3JX1Pj4wuc0Mf8Kudlvt2ZyiDOQwxnoQ8NQ4rL26Rvsmtm5oUNAA+OjQUA==
+     physical_name : .\ETAT_Etiquettes.wde
+     type : 3
+   -
+     name : ETAT_ClientCommande
+     identifier : 0x478f336200916785
+     internal_properties : CAAAAAgAAACqoJL2NXI6ZWE3qSQ92ZSMdmXddcV5jDdWPWzq/wAclHxGI0RYqKq1UvXvyUmHc2Wvtw==
+     physical_name : .\ETAT_ClientCommande.wde
+     type : 3
+   -
+     name : REQ_Client_Commande
+     identifier : 0x47068e800193a91c
+     internal_properties : CAAAAAgAAABJxbFVUg8nyOoDz7nxZoEm4+zujsw/MeSKuPZIstU5/8ULcyZ+g+1Zt2pUrHRsFIRM1A==
+     physical_name : .\REQ_Client_Commande.WDR
+     type : 5
+   -
+     name : Etat_FichierTexteAutoPaysage
+     identifier : 0x481ca9aa009163eb
+     internal_properties : CAAAAAgAAABn409TUA0lxpUlyFHCjsfFZVaw0P58ullKCAo9HAOTrRuBqEtHsXlgsmhSrnZqFopy8g==
+     physical_name : .\Etat_FichierTexteAutoPaysage.wde
+     type : 3
+   -
+     name : FEN_TT
+     identifier : 0x482c8e54017f606e
+     internal_properties : CAAAAAgAAADCuDpuXQoiPZ46soQqI6V9UBOv50ysmvOsKyBu2CD8FODO4PCSt+2l511HsXFvC/3HTw==
+     physical_name : .\FEN_TT.wdw
+     type : 2
+   -
+     name : Etat_Imbriqué
+     identifier : 0x4a5717e7017504f0
+     internal_properties : CAAAAAgAAAB82lRAfySMn65XW8fmNe8hEnNZgTZX0FqphLuksZlztRffMVMh4Ffc+y+pF59RKZ9p6Q==
+     physical_name : .\Etat_Imbriqué.wde
+     type : 3
+  other_elements :
+   -
+     physical_name : .\Description.rtf
+   -
+     physical_name : .\Description.gif
+  analysis : .\WD Etats.ana\WD Etats.wda
+  net_assemblies : []
+  uwp_api : []
+  external_components : []
+  internal_components : []
+ report_and_queries_enabled : false
+ common_generation_directory : true
+ languages :
+  - fr-FR
+ wd_style_sheet : ".\\WD Etats.sty\r\n.\\Wd Etats.sty"
+ code_elements :
+  internal_properties : CAAAAAgAAABVivAnUhu1SglNy3WhzmEITG/jqQg/sDIlQmmcyKQhT7XEBIreLY+GF2Jp2k+itcBTjLamQY68IJWCIcb5u5w6reIthaIp
+  type_code : 0
+  p_codes :
+   -
+     code : |1+
+      
+      // ======================================================
+      // Variables utilisées pour l'exemple d'état par DataBinding
+      // Structure d'un produit
+      stProduit est une structure
+      	ImageProduit	est une chaine
+      	NomProduit		est une chaine
+      	Prix est un entier
+      FIN
+      
+      // Liste des produits
+      gTabListeProduits	est un tableau de STProduit
+      
+      
+      // Génération de données 
+      RemplirDonnéesDataBinding()
+      // ======================================================
+     type : 196608
+   -
+     code : |1-
+      
+     type : 196610
+   -
+     code : |1-
+      
+     type : 196619
+   -
+     type : 196621
+   -
+     type : 196627
+     enabled : false
+  orphans :
+   -
+     name : WD Etats
+     identifier : 0x4acc56510062ae68
+     code_elements :
+      type_code : 159
+      p_codes : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+rad :
+ internal_properties : CAAAAAgAAABhIL0UXeZmxDJxY3Xy0Q==
+project_explorer :
+ explorer_type : project
+resources :
+ string_res :
+  identifier : 0x0
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+custom_note :
+ internal_properties : CAAAAAgAAAAd98VSJfHHqE3P0QHwrwdhn7ig8dWBR6valpUTgnAMTVXiDg==

@@ -1,0 +1,187 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : FEN_Planning
+ major_version : 28
+ minor_version : 0
+ type : 2
+ description : ""
+ subtype : 0
+window :
+ name : FEN_Planning
+ identifier : 0x2ec236790dd0bf48
+ internal_properties : CAAAAAgAAABmJ/6akLBLMs4X7kLatDfJKKvgvGKwinpDYvXsoFnQfHEZz3o+FDELslGmdKR4x5USjoeNUW4KVOQ/m/UVV7NTnh1GBXX95K+pq3mv2k/OQAvQgxF0VCM86ZisuPAxZ8XC2k6RpZpt3Mtx67Kwn8jXtvzLcX98eOuA/mD3QmZ0t+O4FVSEUi9aEG15h7eq8mzjesLHL0q611e2qx1PYnq8EOkvPwSKp/kkiwXVQhX9CBss9eGETWIRG45tD9cEvpcI7AUuJYPtl0YVWMuwnkN7ZS0nxV14dxHGO1GEkLhTl4LP+4PQ8ytDFhJHn29LDSQAiSb4kbu491C05SIgd7X9aJ0zMCuAEx21m/vAPnWSUOb0+oDgyR7rSLVMO+ai0st0x60HEpiYXF82i8ch27qb7h5FIdE3FGVXRrTwMU7YuDK8SgUxta099HRGNTg8g1OcF5givyyocOOGDkrEWPlBsjHXn7fQctdALk3TrYoTpewsFtWPRZpaxX7rPbVr2mSAfORNkuw7f20SUq5Dnd50zAu6kzNcUw2N7ZlGFF/SNK8gqV0jqZxJOXa1b/Oqp593te2KGaJm3hnD4Ss3pdBmQEwo3voZpnidE3sHLQjjF+5yzW0E9oWHIACa+n73Iygeb6GXc2nvh3NRbXqSACVXmptZ6q5B2Qtj0GM6UwqDX9dxY+E37v1FVL43eoVHMYWs6svtdDLHrv9oEtOWaP9haI5VTjUrK+PmSbDAIT7IA3X0vcnIdvnppIw=
+ properties :
+  width : 966
+  height : 585
+  widthClient : 964
+  heightClient : 553
+ controls :
+  -
+    name : PLN_PLANNING
+    identifier : 0x2ec236e2173e5b68
+    internal_properties : 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
+    properties :
+     x : 6
+     y : 40
+     width : 952
+     height : 455
+    type : 80
+    code_elements :
+     type_code : 112
+     p_codes :
+      -
+        code : |1+
+         PROCEDURE AvantCréation(rdvCréé est un RendezVous)
+        type : 135
+      -
+        code : |1+
+         PROCEDURE EntréeEnSaisie(rdvEdité est un RendezVous)
+        type : 136
+      -
+        code : |1+
+         PROCEDURE SortieDeSaisie(rdvModifié est un RendezVous)
+        type : 137
+      -
+        code : |1+
+         PROCEDURE Sélection(rdvSélectionné est un RendezVous)
+        type : 130
+      -
+        code : |1+
+         PROCEDURE Déplacement(rdvDéplacé est un RendezVous)
+        type : 131
+      -
+        code : |1+
+         PROCEDURE Redimensionnement(rdvRedimensionné est un RendezVous)
+        type : 132
+      -
+        code : |1+
+         PROCEDURE Suppression(rdvSupprimé est un RendezVous)
+        type : 134
+  -
+    name : BTN_IMPRIMER
+    identifier : 0x2ec23d001e813e57
+    internal_properties : CAAAAAgAAACR+h2bv6dYMnyU/rCG/nMMuXl+i480kVWuqo/+fZYA26BnZphF6Qg+E6LEeE1R0efb2kO3Q8CB915M1kvPB/oAMVlyvcbylBnBY3EiKah8eHZc7wtMaweBWDwovz7K5pO7yDcupmnLTsbZhk+jXYDiRpiu4FELYh4HusVIfdouvo226X5PWxwMPsTgbGSWIaYxbYkxTkfJkEYn/PqFwXc08P4FXgCK3qB0tasqbiLebb/wdyhc/1zNPJ1VpuBvIedz9/uDETD5El8+MgaBRYGrZgntgW5km/0g5dsdBsRg6VNxuNGteCbHUce+Vcmgwc0bER8OjeuB0LSeAQ0+wLj9F5XMp29UWpQODxf0GHFQcitCwiyNfoZXeMUlw7wxqFbXY3iqGJR+H4UpQH/17eAh2HDMAI/068gggXXFLva6lWzA0SISdzPu4mO7YdZXt5ccUJmS8ElocHMcUx6sjGpQU+tYzbU2GQSsBS7UnyqvBf5CrD4RfX7FwsihAD8qt6rQGbQizZv4gOZxYtmLpsLQP87EujuZvLaj4VxlZxbHg+st2sHY57mkkLklM51I7RVdpH9EqBCis8tY5ItAVzMzBSnqzs6A1647JWPsC/UIaPvloMXlpitwsEpV2Cd4elJTlFNzzaq0YOqCArywt21gk+XN+bNh/VDTSGteLGqAWpzYw/JMalUknfULQevOdP9nwB77MzFBORwQEbJw7xVxQ1eCaSP4IkY5Al/KnvvOtXuR9mlIpiZnbjoxDVS9RpBycj9InzhrydGzY5BwgPBoGA8EKd/X/s+P0ybkc/I5Hml5lLsnl1HS4sv2Lq2QC21Cbp/6lTfLtDIlANM8j9JOD/yrdrycyVfa1sFfPBrmnU3YXlr0n6BtnsYBPpY0q498l+bvkzupPLYNlBS5mnicBsuAkGUiMo+HXZ+LI1WyhJU=
+    properties :
+     x : 706
+     y : 501
+     width : 166
+     height : 46
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1+
+         
+         // Ouvrir la fenêtre d'aperçu
+         iAperçu(i100)
+         
+         // Imprimer le planning
+         // Les paramètres sont la date de début et la date de fin de la partie du planning.
+         iImprimeEtat(ETAT_Planning,DateVersChaîne(Planning.DateHeureDebut..PartieDate,"AAAAMMJJ"),DateVersChaîne(Planning.DateHeureFin..PartieDate,"AAAAMMJJ"))
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : BTN_Fermer
+    identifier : 0x2ec23d362a41114e
+    internal_properties : CAAAAAgAAACzZZxA9YeZWYxD3kdytc7KlHQTTbiay3uTOBtPtBrReAZt8YiOgvrvltlDHSTX9ytYQwf6O2yNwIEJiCG6+VGdjhuaAGnbL2SgXJq0jEhIpnyVJA25YG168hC+UCB8C+aaHlpC+FH7tpIJWjnmzLmtHAWoaa30eolHqwOvdfPXcvIR48tRNnNdoer44yUoSQiUpD6UuyMJAxF/sz6U6Z+Pa+QJnr5qFzmYEjoK6ZAZMLhKTTrsgQDYUVJLe8YB4t/AbfPWRIIor6xQYOwwzVeJkUlAZ/7FK45+3uB6bCGTMxtJbwT9HnQzf83DhlP+USpmZwEpH+N7ttfZHCaQXtYAhwsX8ZA/GPP3cgi+B0QzjmA6wltkMZ2p8RZf+6/hQ/YQxGwE1yAdKOZVr1i2W9TysnobHF0qiHELFDD5Y5Ssoi9Nyz6spaW9KcVew7Fq+5nIwx66Y30Nr0/NHavL3Xn2eyc6oANbuD2ajEkM2eumdaOEEKD3ovI6qkcOTUKL3jtyZiOeQYaHlVfaW558aq3805l8Pxb5hpJEli2L+mBRuLSQMJGc6CHCylqJP49T3ePGiD1sE/8uypxk252nsc0WrUGovzCyXmS7tzRnEj4wXqLKEqH/053KX9dXBxuJEc79PJNRQnNxDAkVyBSg2Y0XQSCsIH/VZoEOIgG+ann4KprN/iPONIyYNXPG0OYGTLESaCriyGpDOqJ19CFrms7kv7xf1PlxVf+TY604ovkTbAvquCGS2tR1S8eMv2o97kfTdJI5/4e8o3XlonkQMJfKfaCRTNVelXmlGYANro6PTOnOUWQUAfjMmHHAdcxHsQi7G9/KzvO5RqfgGhuXlTR3/Xb47l5+5Rlcd3FM+fFbaW8aNLpH5C0xYNgVJCxs7zXDmVzpu6jfc2F/Hev+nGpNpEJhdkD3RemT
+    properties :
+     x : 878
+     y : 501
+     width : 80
+     height : 46
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        internal_properties : CAAAAAgAAADQZyvpRjJZltgKBVFD+SKMukTEU1n2G2jmPSjnx1ZKdSF2vB36egNKcReVrz/xwpIZdIpZoyUu0CjPxu+MpGLAedmE/39iAmJIcu72BpKoWkpseLXy2lnJGPSMFw==
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : LIB_TITRE
+    identifier : 0x2ec23d582bb3951d
+    internal_properties : CAAAAAgAAAD/uRzRNTrFb5O6z2biOty9cZSA7ErnW3oANCCS+wwDue2f2R/X2ngSAuTAfrf1jD12xCK2QVZFNIRf2MnYj2l/eMXwU3D33BYq6mlxU8kyk0WJnJvWoM4p10XTe810DFMZkuGjkemnHwWLqUE2rMOKVz4yO83ocJaAtHehhxWRF+l8pZe/Hm0YQvsurJBk7BR+If8opU/FMg4WvSynwiSZgzJOX4Ho6MJsLWcwnqMb6KLcZ2nWcyX2XuXS9wX+QPfBwqzLZRkAagNyV34DNmFbLxshJCIewSowLyjX9WUJcY7JuoMzrpdorsppSqrZ6pfw3xFhQuCxrJSKuthkEz5ALZOukOg4YSSQ7CHQveSUyBizAhtJGpoDwrYA2NynT6S69RQojCwYvq8PKFSVtXD5O3OEnVNuorwpMc62xSCf+PJFoalNrAVqjX09sPCtLrF46CXCUCyFtVL+zs0Tnfoc6qa00WuFaayhSpmpTd2OkrVolyRtHY/+l2JdoUsLIth8QyP+Gwm1LV56zfyym3jdjCByWf3ItPihp4ZgxA==
+    properties :
+     x : 7
+     y : 8
+     width : 942
+     height : 20
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
+ menu :
+  name : _Menu
+  identifier : 0x292573e513b5f221
+  internal_properties : CAAAAAgAAADAfZ27Q+jJ/MBXHLGCb7PyE2Yqjvuo9mAX2ZN+LLuyQtzms1431znXR0sNCCeLESXZp1gqmo+m2mUhb2ELR2phZ8VOgUSyXddfQyxpxffipvH/iiFuFkCLgpjx1Ah9/9/ndeRpWb0s9Qcjy8oPtW3aMcRtuglgDe5Ch9/jnC/Drp19/hhf+qz96diLw5T0yWlzg33c/E8hhMwUBdSOV69/8iDQGLfTvLoTvV3YkiQ5Dce7dxB2gUx1AVvVTykQMm7G+0haIOV568KMGgPEJluRN2XjgQ11Tb8vVxt6P2g=
+  options : []
+ languages :
+  - fr-FR
+ popup_menus : []
+ message_bar :
+  internal_properties : CAAAAAgAAAAjFWXItEk/EPvcbGR+hALkgRfdOpVtIn+yZNxHnmSRFJegE/AnD2HbGAaMfhGCqfzkryHG9FVhjtF+iQYkZ59QBQ88Okhh0vjCoVhOagox2hvIqrJnU30QK15/ZA==
+ actionbar : {}
+ code_elements :
+  type_code : 1
+  p_codes :
+   -
+     code : |1+
+      
+      
+   -
+     code : |1-
+      
+      // Lit le premier enregistrement
+      HLitPremier(Planning)
+      SI HTrouve(Planning) ALORS
+      	PlanningPosition(PLN_PLANNING,Planning.DateHeureDebut..PartieDate)
+      FIN
+     type : 34
+   -
+     type : 180
+     enabled : false
+   -
+     type : 230
+     enabled : false
+   -
+     code : |1+
+      
+      
+     type : 2
+   -
+     code : |1+
+      
+      
+     type : 11
+   -
+     code : |1+
+      
+      
+     type : 12
+   -
+     code : |1+
+      
+      
+     type : 17
+   -
+     code : |1+
+      
+      
+     type : 13
+ code_parameters :
+  internal_properties : CAAAAAgAAAAspXRQsX4kpYpRJzI8SMGEUfXYJhQeqig0H9mPZLI9hoPnkeFEnSQ8t7JVd8VUY9eLyST/2DyAYB+9rK7lbHVOclfSdkhgAQ9dNjlmStKMpPl9
+  original_name : Modele1
+resources :
+ string_res :
+  identifier : 0x1fc90754004b7283
+  internal_properties : CAAAAAgAAACyXVFaObH4lOGSEHJoZf1MD49w+XTw2LScZCP/urkWFwy+HYJdyQ3umA==
+custom_note :
+ internal_properties : CAAAAAgAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
+rad :
+ internal_properties : CAAAAAgAAABoAN7PLpwJW3EiA7WVZdCA5EwrCA1rvutcDHooMWKe

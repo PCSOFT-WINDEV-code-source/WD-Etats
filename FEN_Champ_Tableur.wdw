@@ -1,0 +1,217 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : FEN_Champ_Tableur
+ major_version : 28
+ minor_version : 0
+ type : 2
+ description : ""
+ subtype : 0
+window :
+ name : FEN_Champ_Tableur
+ identifier : 0x26090ec20bc9c909
+ internal_properties : CAAAAAgAAABvu9nizvryRKOkao5//ApsGlCePTO9jjMMyGdr4pd6s5Zt3cYMSeFKSRAKMprK/PQApPuurm1+ShGyIc4JtBahXVbDs1/pII8QFL+3pjPzES8rChafC6NctrbijcHv69SbM+elN3OdQKqa4nYv42fKtH44xKloYKKahy3AaDTW2GAzjha4PtXeeZSvcOem+WPVvXaC2KBqARe4fbI8vm7h4YQq2wrTOHivEkUBUBNeH3cLTY94Xb+R2uqiLdZ9NlG5Z9lbTlDiJePd8+rYDEldd0lSNylkadVTR3ztQo4iXSTxVsnvxt2I8HqaSYB4/obpultB77VX//8sxbnVblXZKbSiRUanB6Wb+Au+dQRn6DHmN+d7BpfhbDOKP5EqbRdZEXa/sUoaepiM1jrosQtEt9Jf/xAnaj8GLpNHEgS/Gx3EjOs+E7OPO/6VhIkweDSJpXianF62etQMb9M9Tj7SB3tfh8B89EXLTrQaNngCLM/8CHMcY2CMFoS40vS/oTNN9OJ3S0gtbQIyuze2f4/5O39U6S4oSUzlEIdyHpwqBlgR0MLHtVIPCSwue5cUh5viBXcJXCx4tz3h6xjU9+UCzh0D80tVZsxIcUvlBRNOvg9qiAr71j0CKrPI/mOOG10KGp2lRfEIPDzZKOCDVQMlm2Cpse6HqpJGIcjdUghQz2qzbyl0lcjAFD5ibzGkFqZw6tbhGrtjtxA1fSXjsUh7GcJwb4FZk/Uf+Wp6L28okEA+Ag4p1tF1Ean+0UA/kXv8h2V4iAM=
+ properties :
+  width : 1256
+  height : 540
+  widthClient : 1254
+  heightClient : 508
+ controls :
+  -
+    name : BTN_IMPRIMER
+    identifier : 0x26090ec20bcbc909
+    internal_properties : CAAAAAgAAAA3VBxIlcjdymv1p2cxJPBr3mBGkhyLEHb4ll78WuXXOlkc0yE7+ITKjHmBjAO0LhoWIth9PTe/SyocuQKiv8coPZUHmQ2p88nRKP+O0pnyoGm4x9ZQZ5Ro6zZpcZFrNXPXZ61nC30kit8l7y8S/4j21tZOO8DmddjRumiNpilEJf//VrNUqwAtPCHpJ0EQBG8JQ7HB3kBVKpwHBTNCAynUqTkAdkDGiwFm3huaPIJjoYaTMy2UTs8mD8mwA1HNTpPXD/4LI/JRTjDdMau692+xRgd2Vb0VSeol8iuUZHayNt8z3i2WzA/Br76LEHi8aVvoZzkZSEAutNfM0vw9X2tlPL8Vbi7agqN2oZASiyb3uScQx8n/2Ogx8WsksKSewNPT896nXBtjpkBNE3r6UJ7f9H20WlNgDKqUMR+XafeB1Q3VND0E9BxcuwTsLoDwmWJ83d9Uo6HXtxAph8fzIExQwrbet0y/ezHm6DgkQDDueNO+Mvb86u5kKpnZFP5KApmjp2DcPNQSFQY2zgkQyPd11koS9qw4jqMZaEI3mqqAZNJTUn3PaGXBQHzX4ywANGDaGPk6881U7HmNGjGxnTpCbLXc4EmN++VpRs2qABcry4CTMJVMT/WjkIWPWNxUBblInrf9rKuCYRZV5FhX/2iXgnm7QbY2qzHFbdlguZR5KzcOEwKt6b/fg7zR3NtMZduVS5ZQNMUBVnto/Y0QPJnzRNu9LdgdnTO20PKmhz6OtHs4BHF38S+8aKqcsBcgPFC+SPQ5C/p9Jl2OJFuVRAzzDGrV8uz3VeXOERyqUsKi3KDt7nZjJRQGEa1wuEpc8P9X3qugk7xF/KG0wuuSDBwaDXMOyPJa6oAM19etUxBblkiR6yuu5YdidiPtyvQjl1Xo+qBD+K4PySqyGZZEcOm5Gr06r2tM+G7Qtzhz5HhwzHuNmq0=
+    properties :
+     x : 996
+     y : 456
+     width : 166
+     height : 46
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1+
+         
+         // Ouvrir la fenêtre d'aperçu
+         iAperçu(i100)
+         
+         // Imprimer le champ tableur
+         iImprimeEtat(ETAT_Tableur)
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : BTN_Fermer
+    identifier : 0x26090ec20bccc909
+    internal_properties : CAAAAAgAAACplFMrpMGq7HJDuowkOClhLu1DRW21oyf7drEU53tF4aBsKCmlRYVR9rL8Ti3h31Wmg9Y9QKFAmOFoa18W5IOgoznJm7nRW6gQn1SuWT8wf4MfMVTGr3G8Hu3QbHBXsW+JE1O7TOznAazufC4PhnO6h//1pIskXMliy0dUGZHL5HeBQv9kHqOJxVj/iyhfZ8rola3Sgj9dibq3f0efUfKQ7d8E54F5Uw9v8CXyKrn3ZrpVj8hMxooMwd5kONpfEFE1WOLMQz27syANEs+rlvFJ5DNtWMnDL4WUkudo3YlEO0hZI4WQwkRij7r47ZpI/1j88q2R+Yx0WquH6djljZqZnKtaL/L4/c8Mc8fuuKkzqVxFNQvwl3EMKHndsJt606sL5BQjMz8qtgxCixgeneW6gUwV0Vfjt9MPU6/V4LRv9Ay8MAkb6nhrYIboYBra79GjVFFC7F/Y9VmbsAeTSw6ljmMdDtZX5jC1zEioIcUxoLK8o+ps7OoxudHVE1x3YX4ZfGKMuhRzxPjEcmi6dqiXpru1JeFXAi/t2qSFQHQa72m45anBqg3Pn7YGEUWX4KQn/BzM9r02NRHAZPNBraxTKPMzZWNexNn2B7V7sgQRKdMuNb0A6bH37v0ww/uvMDNoEua9EaPb0/rNoc6GxVwkFIxZ1moJ4GB1gi4yIo/7xQsrARE/FK6daAuR6sQaA3kQ10C4KeK9ywKK9rWjTlYo6hYZesggttRd/2yPzEhDsuT3ONf9Px1gg9Roo3k7IicvcoE0A6Zo40UkwEop9RUkFYsHwddwqB3r6KmGPuy2GQ8zzVXNPuHqk1b1PeiFd5ZrWtOC+A5sAFsF0Dp+Dd/La3MsKvvKC0CeLEQOT5VwtrryB/yaGSviBtUwJZ6csliR3wul6px2RjjPY1IjNN/iZPkOQLACmp8=
+    properties :
+     x : 1168
+     y : 456
+     width : 80
+     height : 46
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        internal_properties : CAAAAAgAAADQZyvpRjJZltgKBVFD+SKMukTEU1n2G2jmPSjnx1ZKdSF2vB36egNKcReVrz/xwpIZdIpZoyUu0CjPxu+MpGLAedmE/39iAmJIcu72BpKoWkpseLXy2lnJGPSMFw==
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : LIB_TITRE
+    identifier : 0x26090ec20bcdc909
+    internal_properties : CAAAAAgAAAACF0zk5VstqkB02laBPSbBmG4EacUI7InQXlag0aA63t6NsMxCznw87/w+d1d+I8TEe2x1Gz643LdOinNTXj3ZLP45NU0T0xblKK2ei5EucS54IELwTl1cckWeG/isHX7XPZPntAZ7nodb7n4/y9vEgcJDPkahAhFuCSK71vSkefbvcQNw+nLXP7cuFk8DIVuSTFpIweqlNuq4kvH4T+kfqM1ELgav0bCobE4qM8EENFDUA9P5Yw4Jp5Kjo5bTCDmW27G08sI4C7hdEaaNNS4l999IWgi2xY5wwkHpzZExWcLyCa0luk9AovnGYKqfwEVKnGS5BkTpquLj0X70bYBc/SYPci68kaRsXYC4SSgsnBBAqbWzvuJ5WF/vaLzbrzYQFsuINKayvH3CWeZt1+LFQ47F8QPkaMI33Dvgw3jrcmCWlHGBdrdg4/i+HCKFKpca30yskkAy687NW8DSk4QWribweknyLjesWtuBBUb8h5rIbP3UhAEum//1NINCJy786N+fbbessma96EOnj00+sqihYci1bOu2216ArR+he1IJvZOj
+    properties :
+     x : 7
+     y : 8
+     width : 942
+     height : 20
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
+  -
+    name : TBLR_Tableur
+    identifier : 0x26090ee40bed4f7f
+    internal_properties : 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
+    properties :
+     x : 6
+     y : 34
+     width : 1242
+     height : 416
+    columns : []
+    type : 114
+    code_elements :
+     type_code : 137
+     p_codes : []
+ menu :
+  name : _Menu
+  identifier : 0x292573e513b5f221
+  internal_properties : CAAAAAgAAADAfZ27Q+jJ/MBXHLGCb7PyE2Yqjvuo9mAX2ZN+LLuyQtzms1431znXR0sNCCeLESXZp1gqmo+m2mUhb2ELR2phZ8VOgUSyXddfQyxpxffipvH/iiFuFkCLgpjx1Ah9/9/ndeRpWb0s9Qcjy8oPtW3aMcRtuglgDe5Ch9/jnC/Drp19/hhf+qz96diLw5T0yWlzg33c/E8hhMwUBdSOV69/8iDQGLfTvLoTvV3YkiQ5Dce7dxB2gUx1AVvVTykQMm7G+0haIOV568KMGgPEJluRN2XjgQ11Tb8vVxt6P2g=
+  options : []
+ languages :
+  - fr-FR
+ popup_menus : []
+ message_bar :
+  internal_properties : CAAAAAgAAAAjFWXItEk/EPvcbGR+hALkgRfdOpVtIn+yZNxHnmSRFJegE/AnD2HbGAaMfhGCqfzkryHG9FVhjtF+iQYkZ59QBQ88Okhh0vjCoVhOagox2hvIqrJnU30QK15/ZA==
+ actionbar : {}
+ code_elements :
+  internal_properties : CAAAAAgAAABfbjVOeKO8PsRGJ7nEK/DQzvGo8M78MW2cSlk1c/4UITEMllv4gnAjMs6lVbmou15aElW0eTGjz3mUqQLBRwiZ/CvkZrYpPpEwgCvzVEqg
+  type_code : 1
+  p_codes :
+   -
+     code : |1+
+      
+      
+   -
+     code : |1+
+      xCadre est un Cadre // Pour l'ajout de cadre dans le tableur
+      
+      // On ajoute des données dans le tableur
+      TableurAjouteDonnée(TBLR_Tableur,1,1,"Référence")
+      TableurAjouteDonnée(TBLR_Tableur,2,1,"Libellé produit")
+      TableurAjouteDonnée(TBLR_Tableur,3,1,"Description")
+      TableurSelectPlus(TBLR_Tableur,"A1","C1")
+      TableurStyleSélection(TBLR_Tableur,tblrGras,Vrai)
+      
+      // On ajoute des cadres
+      TableurSelectPlus(TBLR_Tableur,"A1","C1")
+      xCadre..Epaisseur = 2
+      xCadre..Couleur = Noir
+      
+      
+      TableurCadreSélection(TBLR_Tableur, xCadre)
+      TableurSelectPlus(TBLR_Tableur,"A2","C9")
+      xCadre..Epaisseur = 0.5
+      xCadre..Couleur = Noir
+      TableurCadreSélection(TBLR_Tableur, xCadre)
+      
+      TableurSelectPlus(TBLR_Tableur,"A2","A9")
+      xCadre..Epaisseur = 0.5
+      xCadre..Couleur = Noir
+      TableurCadreSélection(TBLR_Tableur, xCadre)
+      
+      TableurSelectPlus(TBLR_Tableur,"B2","B9")
+      xCadre..Epaisseur = 0.5
+      xCadre..Couleur = Noir
+      TableurCadreSélection(TBLR_Tableur, xCadre)
+      
+      TableurSelectPlus(TBLR_Tableur,"C2","C9")
+      xCadre..Epaisseur = 0.5
+      xCadre..Couleur = Noir
+      TableurCadreSélection(TBLR_Tableur, xCadre)
+      
+      
+      // on charge des produits dans le champ
+      //on ouvre le fichier pour le lire
+      HOuvre(PRODUIT)
+      //on se positionne sur le premier enregistrement du fichier
+      HLitPremier(PRODUIT)
+      POUR i = 1 A 8
+      	TableurAjouteDonnée(TBLR_Tableur,1,i+1,PRODUIT.Reference)
+      	TableurAjouteDonnée(TBLR_Tableur,2,i+1,PRODUIT.LibProd)
+      	TableurAjouteDonnée(TBLR_Tableur,3,i+1,PRODUIT.Description)
+      	//on continue de parcourir le fichier pour alimenter le champ
+      	HLitSuivant(PRODUIT)
+      FIN
+      //on ferme le fichier que l'on a lu
+      HFerme(PRODUIT)
+      
+      
+      TableurStyleSélection(TBLR_Tableur,tblrTaillePolice,12)
+      
+      TableurSelectMoins(TBLR_Tableur)
+      // On augmente la taille des références
+      TableurSelectPlus(TBLR_Tableur,"A2","A9")
+      TableurStyleSélection(TBLR_Tableur,tblrTaillePolice,16)
+     type : 34
+   -
+     type : 180
+     enabled : false
+   -
+     type : 230
+     enabled : false
+   -
+     code : |1+
+      
+      
+     type : 2
+   -
+     code : |1+
+      
+      
+     type : 11
+   -
+     code : |1+
+      
+      
+     type : 12
+   -
+     code : |1+
+      
+      
+     type : 17
+   -
+     code : |1+
+      
+      
+     type : 13
+ code_parameters :
+  internal_properties : CAAAAAgAAAAspXRQsX4kpYpRJzI8SMGEUfXYJhQeqig0H9mPZLI9hoPnkeFEnSQ8t7JVd8VUY9eLyST/2DyAYB+9rK7lbHVOclfSdkhgAQ9dNjlmStKMpPl9
+  original_name : Modele1
+resources :
+ string_res :
+  identifier : 0x16090ec202e9c909
+  internal_properties : CAAAAAgAAACyXVFaObH4lOGSEHJoZf1MD49w+XTw2LScZCP/urkWFwy+HYJdyQ3umA==
+  strings :
+   -
+     text : {}
+     index : 0
+custom_note :
+ internal_properties : CAAAAAgAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
+rad :
+ internal_properties : CAAAAAgAAABoAN7PLpwJW3EiA7WVZdCA5EwrCA1rvutcDHooMWKe

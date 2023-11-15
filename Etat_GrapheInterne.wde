@@ -1,0 +1,133 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : Etat_GrapheInterne
+ major_version : 28
+ minor_version : 0
+ type : 3
+ description : ""
+ subtype : 0
+report :
+ identifier : 0x591abe7a04db6d36
+ internal_properties : CAAAAAgAAAC9sZPSLIgGAgBXnwkHQnxKswgtm64n8ozu7Gelb8fRxQfLYDor29qVZ8UEdJemiktRj+5McVKG/roShVPmVqjtoU/J2/tJXOIpWX7o3bdUrrd8uIRAZrlvQSNKg7/WwFcTQR57xuMuO3FfWIIfA5MhS0YHw51tLlbKrpCfdhlU/AW2YlqnzEmuoHD/x4bcso94BiLypq/VVjwOOLXZA5SA/I0FaBJzsRjhD0fM4paL4HU17ebOMMv85mp5iFnbsDIUsRTrtbOQHRLGzG7GjZFFwUwe1DW9XQT+kZhuN7Prr3yxAVaurkuH3f26b33SJTTsIw5aXw3pJauvkSfL4nvNgehdJh5LOqlTbohDRi6NNeTZbCna2xsUka3hd4K1LQKwwKqAUEZpd5/LY9iLshjnxxaDJpmz0SKBi1P+XHKEKaMgk/KeyW9NuFfXD+h3faShZWonS3oyrCjOobFNGsgGSisVJQffATeeLqjN/O7iXHIJ6ikEu359ClQnFfmL+ldQs6/WkhK1RKKR4yUdRNc2sWqZaUAE6YgWFyG5VyZwUWKv0lR91P6sOLmzs6QKFT8Zk66y+GA3qJUjXF2B3nDhhvFQHO9DZjZ6zL/fJI6EQG0lRxG+3hIGsjrRbodST2e17o7B0ZKR06r8LyWwg8/95h48cYh7Y/pc9QbdPYfC+VxtldzhQ3Qz5I12gJyAJdhmHZy9zqClUEkJZA7stnxlioELVNMDYpKnXicKWv5tQsVSA1HC3AFOAnNZ5AwSJvQOLur2GaRvyr0ooXdb4+qUWG9KMucg2t2UMNaGJoM7xlAhxj5DB8I+pfL00Wc9IjLO2TdTJaYVLZSBAtQXIW6IsdRkatjge0ygZWSQcI90aLUSFIKt9eZCi6G5oXDr3Zh09N2ceDr+yD0pAx3l/dmpj4PG5d4UhPqZlOTVnpZiJN6326raxq2rEnK8qBz4kgRH+cRQReV66OcRw9OPBKiv
+ languages :
+  - fr-FR
+ blocks :
+  -
+    name : CORPS
+    identifier : 0x591abe7a04dc6d36
+    internal_properties : CAAAAAgAAABwUNxgbky0L/RYHKkMI4PGGNmX5O4Ydoyc3BpsBUuZc2cFOnPnzOYtG2fo9frW3IkAKo96ImQc3rAJne6pBRxYePvsrqyuGRlLk17Lp4uyCMhatnF9p0fXRKS88ePQy7zFpjtX1qtIh9LimwIDI7odEoPs9fvF3bOb6feifDDt+A9i26PQ2p23Jh42R2WAXyHp4YJ9blKZ2rMtoDQfoptMlYdy1d16gksvxA1a8PAm1kW98+dH/DeN5hTBgIaee2Dz
+    controls :
+     -
+       name : GrapheVente
+       identifier : 0x591abe7a04dd6d36
+       internal_properties : CAAAAAgAAADYDlNDlNg94Y/d78Q5sPX9v/bFBTdp3xstJP+Lc2nObjaENfaN1fzAYXBz7wKM2CcuIFrb3gSRpqgMwb9GgcpzEpt+sChF+uIGDmfYjilwGnA29p2F3fpfWxYh4y5jlVA4091q5KCtrpzpi/9BSesusgAW3fGx5n1tQAqIe7wzlFWJZm8IYmlDo+WHvrrT9qmUzb8o3KX1/11Ei1ya3h+o71JXOjCT3HkHRS/qwahixZROKX9rQ7JZ+OPwz+X/9Oa3OIDjQTI/xw6RD0KKXhqhqIOPYm3dHofrGFQJhvyuttkgfnGZKz0YhUMJdHbStma+3k8tWbB3Ux65R7CQx9/HjqK1gABKak6vduBZdQxnuzPrvj6UXPenNacWXSKOKqKXM9fyblwkO+3+bf+upvbr3KV/XERUTV1g/Euu1snqO23FmtCXHnIL/nMyYhqEdNYEaaXLWoFi05zv1R3Iy007i0yED1iHECYsv845H3UpRnCyb+4P8jsEED6HZujzQyWRCAF8ePRD58vi/wVbIEi3YcJsO0xQKkWck2cZlRsea3xyX6bfq1cUQD6F51qszz7hDm0I9cPEPhlIIIEQyYCXs+tJEAQYFA2WctKRV0tYwj2lZNgZiIwSa5+u2xRRsJurl6yr6NaCzVLiH9LgrAnYUR2BQEPqFhGxcuFFdpq+HKIaRRWoGp64nc33GxiLdTJY7BDLxeH84lG6dn9JGR9EpCCn6ALgkWFH8hjgipz71lOeD29+nFmm0vZkDS7f7Z5kpwlSlGRlxICA1/ZVnoB+Yuxeiamf6jb+Cmi8sJg6ZLPKvF+x9em+FrzZKq8IABhZ+gexXkQQABzIA7CuyLZUYUgH1oFj7d4U/QmCzM1TAcjqwmo3AMKid3HYKoa6q+S9iNIihNHqHFB4NTy52+oweHMAm5jRb8F0taESxwKEG6byI8Bcnlh+J6cOl47ER355B0vWB360E1Gsu9LF+gsXz65VEUrg+QA9HeAol71BYb/9U6z+VhP1i+KDgBjUlq60D0xX5PvRDk2wcQnmDGRCC6U7rlW2pluLEx9OqLkin3vMQn+5bucGaQ9Ol314wc+ngkqb1octg7qiMGovu3f3SPtf2Bm7YoBu
+       properties :
+        x : 6.61
+        width : 156.78
+        height : 89.44
+       code_elements :
+        type_code : 29
+        p_codes :
+         -
+           code : |1-
+            
+           type : 327694
+         -
+           code : |1-
+            
+           type : 327692
+    properties :
+     width : 170.
+     height : 89.44
+    code_elements :
+     type_code : 30
+     p_codes :
+      -
+        code : |1-
+         
+        type : 327694
+      -
+        code : |1-
+         // Initialiser le graphe
+         InitialiserGraphe()
+        type : 327692
+      -
+        code : |1-
+         
+        type : 327693
+      -
+        type : 327697
+        enabled : false
+ controls : []
+ code_elements :
+  type_code : 13
+  p_codes :
+   -
+     code : |1-
+      
+     type : 327680
+   -
+     code : |1-
+      
+     type : 327695
+   -
+     code : |1-
+      
+     type : 327696
+   -
+     code : |1-
+      
+     type : 327682
+  procedures :
+   -
+     name : InitialiserGraphe
+     procedure_id : 1808967631563222326
+     type_code : 14
+     code : |1-
+      Procédure InitialiserGraphe()
+      
+      	nIndice 	est un entier = 1
+      	sCondition	est une chaine = ""
+      
+      // Spécifier un espacement entre les catégories de l'histogramme
+      grHistoEspacement(GrapheVente, 10)
+      
+      // Modifier le sens du graphe
+      grOrientation(GrapheVente, grordonnée, gradroite, grenhaut)
+      
+      // Définir la graduation
+      grGraduation(GrapheVente, 7000, grOrdonnée)
+      
+      // Lire le premier enregistrement
+      HLitPremier(REQ_CATEGORIE)
+      
+      TANTQUE PAS HEnDehors()
+      	// Ajouter les données au graphique
+      	grAjouteDonnée(GrapheVente, 1, nIndice,REQ_CATEGORIE.totalttc)
+      
+      	grEtiquetteCatégorie(GrapheVente, nIndice, REQ_CATEGORIE.libprod + <§$0000§> + REQ_CATEGORIE.IDLigneCde)
+      	grLibellé(GrapheVente, grAfficheValeur, vrai)
+      	
+      	// Lire l'enregistrement suivant
+      	HLitSuivant(REQ_CATEGORIE)
+      
+      	// Incrémenter l'indice de parcours
+      	nIndice++
+      fin
+     type : 458752
+  procedure_templates : []
+  property_templates : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+resources :
+ string_res :
+  identifier : 0x3c85e19237231314
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+  strings :
+   -
+     text :
+      fr-FR : " Ligne N°  "
+     index : 0
+custom_note :
+ internal_properties : CAAAAAgAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=

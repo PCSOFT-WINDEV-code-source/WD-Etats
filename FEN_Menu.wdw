@@ -1,0 +1,592 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : FEN_Menu
+ major_version : 28
+ minor_version : 0
+ type : 2
+ description : ""
+ subtype : 0
+window :
+ name : FEN_Menu
+ identifier : 0x291abde46dfe2158
+ internal_properties : CAAAAAgAAADM1aadCz5pznsOnI6U/QKYZNTlUPQV0/FvZQdE+mcOqdzz5McVVL6kKACYDXwE1/U6HmmQaTVhGKfMOKMR3QzVMD0dblsFXxCgY7/Ctg7YkK5wl+aoWAfr98lkXLb1Z9OTkDaKsTrf+r6b5sqj4XM74v975+Vns0n89dd3ygKbP8UoT5Ap2bVeGTaz6o4EPxxSE1DUjY3z7KZQVRzSSHEC7QhGEcIqKCe4Ry+X2H+3oFVxz2UaYXFvJzEU0Tqzxrt30jzhTU6dbcUZinIKAYQ7yZODhO+ZALG9Q9RrVohAvfrBmNIhZF2zj0sZOLqFWMecC5U4fzMKw0Civ5pKWJSiiCKpDS1S9M1OmJeW3DanNaE16do5npvDlIYx9YTvioZI7lnAN64Bx4koAJsYItkTCA3Tyf2NrObvjgxUu3n6g88sAECoMAl2WC3N5csPEw5o96s5Te0ZiINYj3FEIPBBX2oBqhUbqR8itDsRRBGnLg/zJLwpGj/YE1+yhk390Zrb7+J+yIA8sHZ3NZ/CTo8auihgCycVydlx4OwEl9E5TeHhWTvAIST594QCS76SRgXQ+hwcxy2flKrD6kg/A/CPBnubjXHk4N9sAcF5qEJqHTAcw51N8REYahVB1xiu7a4jIJ0xMbd5x/C9436FIpY/3TccIipZGNOjNc/NB0DABTdZ92m0AWmy/KuyS90vQfFnR33+0Vn/3s8haB7VHDCOM5rg6HHn2yyEfFJmuGkzbmiKQdV9FQwDiWXWm0wWrA//srhacObOOdEE2ojU8Q33byeUYJnhxUQ=
+ properties :
+  width : 861
+  height : 525
+  widthClient : 859
+  heightClient : 493
+ controls :
+  -
+    name : ONG_SELECTION_TYPE_ETAT
+    identifier : 0x2602964a0b6f334f
+    internal_properties : CAAAAAgAAACHd32N7SpcHXM5RUPqmN25l6BfMwuKPwP5vfKbQVVclPt9IprZf7wfozn2+3y/0KsJTTIA/lyKprsccyRaLISmvGzRPb+oYZ2gbIsucIk4W/FKWPzWM+ao0aLvq3Nh3bFNKoJdraYiTxtpmXhR3wzpj1SzrTZs3HrDoyitk9WVlRzlWba4SwtLnhPqPhW/kQYqXODaYiCigqGRdfiJwFRGfqN6svkic4PqDaktWsoFsCc5QYnS9+SUKVWTOwoOo98CIQC3ko8f3tX3U6EbAA7iw4WlvYP8mm3ZtkojbQBbRMJVPQG27XsxSzbSH1wLe4HvUSRs/afGHWQyo4PNzKjaMY2lvtemfbZAufJIVCpISD+719O3anz8DYkpq8ZR5geBz5SGPbfktJdmlB7CzPt28dbKs94Vc7UwwZew+u66J0qvwqi3y9wmR3AUUbu6xRrSbHL+3QvxAwhLsOy/VRrLQptpbPx3Tyr6casvQL8acP2pcJWdph4QXsXvphzdAx99qh0WFBsWI6RoaMX+rJ6b++eln0rOaEPzXYSS0hujHaDnEwV6noyUolMYXMEAgII9iHFNelYBPNUhPft0WCEb+zU86amwazG/wOc3I9GjShEme/j7FmniPJFnPRsA7EHyIPdREZ4ih/L6+TtoGf6TWh6Fut3O83zqakZcllLqeo1ytvS3Yfas2N12GOrj0JsIXjKhPteZD95+ne3gMMfNjBKslaqzU1ZFHQW7zoKxBXOt+7nCkvY9ndYgm0f3bSnm3iNJ5255NLT1ZwbDf8q9pdoSq9HvcVGXtUb0zU9BA+64PKo9U3KGBLi6l6kvIiLugTqiL4u+jjzBrw9yDxcD7W+MT30hAT4/2EJ6669g8edAp6sZZeDS/gQfH7fGn/Arcdu/qlLQCmRKsCgRd9tgDg/jOFnZxothsSkjVQP4LdjAJ7JPk6H1xirHXoTglrYXkuEFKyMxxWsaHHlW4d+ACw6LwBP3WZIWsa2bTrft5LUZ8WhSenMeLHadVYllZeYAdteuJeLFvXpaQBSP45WWKOwB5WdF1VVgoNv26Q0A5QDp9Kko736aWZ/4zk8FHQrTdfRm6/CEHXh2woyErwxXi/mgF1dEHAnSUAF+hX97o9RNRfdnQaLh4/hT8cASdA76jqr8mF0HVP5T+l4cdGC9dk0TXTeyK4oncua5W2NpFc3R1f0t9b6wM8wBCt2M4ccp2Wpqpj7thEuoj6iBNrbBNS8Lhcoto5dXPJXKentwA9E5Wtk0nGAB/VqxBgU7rnnhgyNN+Psfxa8=
+    properties :
+     x : 6
+     y : 79
+     width : 847
+     height : 408
+    tabs :
+     -
+       internal_properties : CAAAAAgAAAAKZZCe/pnZaG16GA1vAwAFN/aca5IBrO8MZk1XsIAMaFX0JFuzoROZd4HsSfGmUNiJiMIqikk42j90LF+9okimgSfvsPz2Y8BLV+NwYVhkDaEJ+h4K/zo5akOITFg4ys8T/QLqUQ9yZsg9RBTxO2UvkJq1bczsRFqqIej97SrA57g/zrMgLoRk07tFi2dhJCoIWL026eI=
+       controls :
+        -
+          name : SEL_IMPRESSION_DONNEES
+          identifier : 0x260296820b9a1071
+          internal_properties : CAAAAAgAAADDy1IZSuAK2sVDaeR9kp4yoOI+Y8pRFTIV91I+Gof+9PJQ5FcKANlGoG5CI+l7wrAWmK0BqSzH7cThpyL7+ATRsvyB9jnCKjB6BhV5/KPNCzpv5BsHlijN5OXCX1O1C1QwkEak3suWKMRji7YVSyCwvMxROueDhPm2LqRXt/X3PB4Pezp05MNmWpHU/kx1gQhwJXMsdgIN6Jzg0qsYtpThz+UA7GIGH2c/SVQa9VZ/trZJaCDeM/piowA2x8lxQxiVpfgucA/gBUxoP4eW/CzxBwo1hDtW+0nmQ0LPqeDHMrOvrTmO/EzwjxLY+gAZvgSAOdx6cAh0C31Hex8pfTKWlGBhVsmLlqvxT4kZOBuVTj7g//aaxZwY1QvC/NvtjDcqN2MMLI4B8NqXuvQlxjyCq22wZr0JctaAALIaG46+HjV87ElPxr0Pn6brIhn8yUXsdxNIhOQSucdi9nes4Y8sAWxLvLdrafdLe1txJ8SqtRhx27icqSAaXIAuzP3P0GoEQQL+6wccR16+wJ9mlNqAWNVwEVYfRl6BTl6qf115GrS9zRK2ej/ykm2oBHujBZwm6OUlcfQqTnssyMP456bJWdKYsYrVIQnlOT5pDMkfMnh9bNdJMreM9EvGyyilPSisuty4lg80sPuuI/wcOHWy+nWcoNI6whmaKPxMzNOUMDP6giQMqJD6Igz0q9UwhEtwa4eavTLCj39llPZmNTUudBDfsGrsCEqPBY/FbKIVUT8Kuet7AR+kmhGT67IGcthRf/MeatsHT1lOkzZHn8z9jA5z/6e0VH8gbUasXLHIVRzi2SORNGjewUeOfUIZC5CtKAk80ge50UKsCWBfvHelMIhLJskYe6sYIal9DfDY1XWgwx7TdppUfwnSptfKGwkYpgPt9mJEYMEn8MCE1U3IygxIfduS+Cd/hINtnTmGqYjdNViD9MnvRbukszrhIXzvmEqE9o0VXkzCUX8PITHzor08gRMR5ZBeGrKsmSWg7QVhu+AQrP6hpMREB/KJlhMjrrECZvnkU3ehRBzgeL3scYuH/Ct/7RY7JlBn+ymb0yUPr/DzZFfJbM73RSvE+oyxOnJw2jB6pMAeeyNL35XojYPmsIYh+PhLuA639Vqif8rHBvlPamkoWhfqqND7ZmAryPAbLGCNHYisOlwXK1lMibNy4UpZD2lVKxp1M9HfRSXQfW90IV8eMvRnNXrp+/wjKmFY3A==
+          properties :
+           x : 6
+           y : 97
+           width : 835
+           height : 180
+          options :
+           -
+             internal_properties : CAAAAAgAAABN57cLe1NMZ7IgTxdBYPzCkNxBLJ+CtKynQHghfn1c1gHV2VAgki0nL8yjxmTyQTskgqUmdPyEnu+qQnKogCAM4UqSoWCfkiM2BFNJvli/5abZBymyhkW3uAB/XZPNEsxzMS/8w2yjmQH3KOFdoEYUH3dFbpKhWMrW2/VY0duO2TZd1m4ilnpyiUd8LX7kuYHqf7/G90nJV1Pz0bvWesclCdpy8L2t0qxan71wHxqXNCPqRmkAwdYQS+gu+x0ytYnZzZ+wgTuD/XiYqI1hWEz5zhT4QujHcvP622gdysQnVfJ3HpO7V0TR2A0Fj+U5ORU8DEmsFN7NpKd+/zRE2u/mDjGgrD40ty4WvBaXTdNvwDnpzI0YEHGitM9N0gkXUnJ0R/pGkKTnMC1+Y13Kk6mtFYlRtlrcd0BF/QTIfCVMTzsClorT+U4=
+           -
+             internal_properties : CAAAAAgAAACVIRtegdX8n3egTdBOL7I6i/c4ddRPyni6/ObukB2ZBkDQVn2dfW3FWCBJq4bzsltzhaxzBvWFT4gtvBIRyNNWuG2WI2K98dblvOM/U8QBkXxxGZqDRqKO1XGs0ma4N5VPyW2N3CuUJ33tTpbzmIrIedChWg9Lm1O/rFReJjgjDxtJXGXNqPjewIc9/MMYJnQ/U9zqovwXyf3Ca+2Bi64eVSi6y59xlD9i7PrQPoXiUi7UvipR9TqcEZMBzox8ZOll8Qu2DJQooIu7VlZDjmdRVCrqfCXzFJc+KkeKpyE7zWb3IkuuE8aiXbaWajGbKKCNfIDz6Zgy0w3JeMaz7bWXorWA7cVrHHJTgh6NNbq+lgmFWCu3uCBcuVlECXKc4MuxgU0AMA==
+           -
+             internal_properties : CAAAAAgAAAAlxFvoGvh7qbT6bhluud/mEOVO7udUum+GPzrw+XMvB5D/F3kq+dR9ywhffTP+/MOBOW94wMHN/U6jiYIO9++5c4kVXX4BTJGVE+LMr3ECmfnnjqMB8AVc4AHJ9KiioWec6xSf1aP9H1oREOB6IhDUbZ5CkZM9fikdIIKC1G12nOu0oxyrAKu/6aolCpC5sn+a0ku9kNr7d4cK0d9oBCXsP2tgZS+GZdf7MepctD8/vz+MFjGmaU6tNFWr8Q0tSd8vGJS3iLU7AIcKM1ts9I6eyaRULZTnLWXWDlaV2F9SNkQLxvQdf/TA/bvhJdjDDKRamWHQU8ilSe+Ca8/0Yd5LmCYCBYgjl+RrRstYbMxU5USggu9WkSZsKRb6Cg4XWJdcAx2pkXDlqOhRjWF8AadbYDxta5M7/p21eHw3i/Dp3ghwoykFFuevAIu1THbmvAbossPj685mnyuqlz5vIRcja83/yfwCjw+KlhJml9IhLC45B/xG1wHDwryPOdqoz04bUrakTYcbUV9rCxXO4WGs5SFSPUdMzA0=
+           -
+             internal_properties : CAAAAAgAAACZFdlgmnb1bOuwOvCd2qbf3nBOh9AiKbnjP6DekSIDnoaxYetVDVsqpGge5wORZTJwVAD0p8YGwl53CiKGX+uq2kJXe7jYnI7QKb4iYxWZe60EZ6mQbhO0JdiMdGL9HnVM/Y32g3fRo/IrKJ8wZdBVVkA6PJOenPGSPBKfC5nlexkjJkaGIGZD7sd9E2jf7+JG9dUnNjAj3u0L1GBbowMJtrHCT4ZkVqq8+bv8ol0gdzVNXdwd/uc07EKvqkR81Zpn1rluCuW2UJCO7GnOdTQzf6QOoDLn9fmZospJFhdhPBBr5ObJU/81j2g/jHDoA9qW8oH1QkusFcQQlGq/mOjnGgQw2VNQS9QIh9awYRQnJhN0qqv0uyW6XbD4I5RStnU=
+          type : 6
+          controls : []
+          code_elements :
+           type_code : 6
+           p_codes :
+            -
+              code : |1-
+               
+               selon SEL_IMPRESSION_DONNEES
+               	// État à partir d'une requête 
+               	CAS 1
+               		// Ouvrir la fenêtre d'aperçu
+               		iAperçu(i100)
+               		
+               		// Passer les paramètres à l'état
+               		//On passe les paramètres de la requêtes si besoin
+               		// ici on affiche les produits dont le prix est supérieur à 100
+               		iInitRequêteEtat(Etat_Requête,100)
+               		
+               		// Imprimer la liste des sociétés
+               		iImprimeEtat(Etat_Requête)
+               	// État à partir d'une variable
+               	CAS 2
+               		// Configuration de l'aperçu
+               		iAperçu(i100, "", Vrai)
+               		
+               		iImprimeEtat(Etat_DataBinding)
+               		
+               	// État à partir d'un fichier texte
+               	CAS 3
+               		// Ouvrir la fenêtre d'aperçu
+               		iAperçu()
+               		
+               		// Imprimer l'état 
+               		iImprimeEtat(Etat_FichierTexteAuto)
+               	// État avec totaux en bas de page
+               	CAS 4
+               		// Ouvrir la fenêtre d'aperçu
+               		iAperçu(i100)
+               		
+               		// Passer les paramètres à l'état
+               		//On passe les paramètres de la requêtes si besoin
+               		//ici on affiche la commande 5
+               		iInitRequêteEtat(ETAT_Totaux_bas_page,5)
+               		
+               		// Imprimer la liste des sociétés
+               		iImprimeEtat(ETAT_Totaux_bas_page)
+               FIN
+               
+               
+               // Désaffection
+               MoiMême = -1
+              type : 17
+     -
+       internal_properties : CAAAAAgAAAAYk4YYZBmJ/N3KyJn7qww9Ryac6O6vmTAUVn/5LjzaptEg9NNRgaV3415sgaEWIIhReGp6komgGrfMlF8V2nDuMe+/KPzeYxhbF7PkRZywoUVFJio2y85Nfp90kAyMJmPnye4WTRuG+qyZ4HiAYrr6v2mGNKcPK8Px4OcWmM3yoiUSyKU+bJpqKUnTOdXvklyG3jtI2/A=
+       controls :
+        -
+          name : SEL_IMPRESSION_CHAMPS
+          identifier : 0x2602cdb104659ee0
+          internal_properties : CAAAAAgAAADcKJQ9dVWrzD8NPV4LPoQXjW0Z01qOCaFUUlDlJCaW/LOtH0cfVP3HMimPRkLRnGCGR5gqxLghIaZoQctyEQ9RW8/FpEd5flMmdMv/Wo+TeWx1YFBdGclO96CbctHO8aOUKAqHmfuCxRFEFhFTrRAuCLd/ZwLWOdTZdy1RQ34SCjeKrfhqv3NKu3agVSWd0YOexpplwZRJxnnaTJeNymQRKgZZg02v+UwXzlDB8FgKiajcqVSgEK5Ztqw5eAgjDg1v1ilA7JbDJQ86Vwu6cYuxETPazMdjvT73IxIbKA6jq5H0kq9WtGLmcvU31S0bsjo/WgYojHokNBSNxRDyUJtyA7PNyOWLHv0/oaOstqJZGF+z+nfE49H+nFcmhCqPpJ4ojtkCReuR/gER0UiVAUjeVHaaX1dguqdqbW+CcWsKbhTDUbXJDG0FEWDJRuu7K27Muq27/d1XNLpWvJARioLSNwOkbD0YpUt4ZTiRaGa+GJ0ogcBeLggrfCjV3YELV9TEZ7FO0SROvmaT940SLNi/NvGtnTueNBho7TP6zenc+rEHSiZ6jvMXjj/m5c4QyKF4duE/oMqcX6ih+L5daTG5qtX91hMeoUT9dt0u1vxRusrE/9DoWErC2CEskwbXERcqIR2F59SHO9+QYrlOO0AdE+Wn6+vNQGO+h1ZWusEJqyYM9Ua5aI3tVBE8HsR/OwjOMSu7PvzwAs1C5npJzJOp5W+4WS8W1m7wefkc8eHUP93el9Wn9iQ3eWSfL5FCLpI2I3gzUTGFM93wzyGv2+s6mnmN4V5RWsbnRasu2JD4xGgVhY/StrALy/4JW4OX/Km9a78gwneZWRgn7eooGIs5MeXDAiI/pCZ8IxeK3IRqzpLtppzoWgOrFXCGmJDiFNbxrqfiVSr8TQf9PUtgvTjNNYSnagV4Xqqef9HpSTf1pKkenrkM/Wg2Flr8iHuoySi4X9x26wv/jJOdBFiGW+YqCeOBKQMwBV8JlhV5D7EV3K5xt7Su+uQMkGOb6cXZwnmoQDrvyBqUFIQplcjnMuwst1YcrwZ7b5zVtHFuFfHFe4+DjBXsH/fJ2lVyNQmqIUDiZClTeu1+QjKFn7I3DsJP51xO46w0JHmfhTlXdEBXuFAChA3N3NitnKyb9L0Z8t7/z2i1p3AAK4WvK5FiW18Qe/28UMGsYdhPB5iqXMeZ3KTwc1U4NmcZC/sgew==
+          properties :
+           x : 4
+           y : 24
+           width : 838
+           height : 331
+          options :
+           -
+             internal_properties : CAAAAAgAAAC4PeU9hqKhhqG4AUkE0MytoOkOFBpkuJKJHfEo98mE/pYU2SDEQ1KfxWr0Px8RgRin0EA9+dcJiRuhI2ufv318VmP2OPezob0xDDWB3gRmXqcp7KcPGPwlMIhQptbIsxJ0L/nO1RcP4gfugVQwofacsMgm1f2EnnisrCJ8hogV7PDL/WhexIRMgHd0Z0BmYYQbY162IvZhqrONff+uMM+hlfIR6RHiKfJwIHLHNnkBy5HE+ffDWJ5sLA+nIe5x+2qzz/lQqSiKYo3UUHwc3YgL83TPxnBPbbMMQaTvo22PepbfOfs8sAfX2nIoexQ1W0+qYnA9PryltnKByoGVxvMznNnh2yYr4H6IRkD2hmGDrI9FvMrT5BsP6WRLm8f5tWc2t8doM5bIZ2BVVaQ1sRvUp9fw7JCMQvNZrr/GyeV3e/Jk7vj7MW7t7OyvUSw0Q5W0
+           -
+             internal_properties : CAAAAAgAAADqTCHU5wNSOhY11Cnl6fcPz/6hjDHYc1x8jJiREao2+W0GkhWxFkQI+daaHlS3kQNBrDLG6DPqyONQMjNdlmtI4ZRrV6wYhah1UY5bT1E7V6JYmQ6cY17TFaw1WLLLJuzrxf4DIkGtOR/UZmPg5krkI1O4x6GP1Z6tLVFrHcNVSsv/RDhhN9obVwmwJDTPKM4Syqhl1x1r83OwJYNxoSasvYOmq88rGct38wfwtVHCq+2M9YXUDgM05hUq4VLJfZcLl3VHo2qxJpAZCA6q/F9bcfRPkAqAM81zPtOjIkePvQpDv5izZF7XT/kLHqlU7cm9Fkea7m0QYi83Yfg+KV9ejTwpDplglPVPqzHIIwbjQwvvxDqSQZYowg==
+           -
+             internal_properties : CAAAAAgAAABEHf7PSoZKco14AX/axl9w/12CwFjmYkfsx8ORhl5m/2rDPkVauNB89orn5qdhZACkYJu1JuJLuISqAiRdX7QGFweXP7VOvMMNDb0Kz3yHDFQg6vod8aQ3eO7w/FUYFLG6pBf9Yr/aWnoGOGR3ADKesTEp4SSXtCuVJF5tJp2nj4GPZcDNctxJJnYavypQB4jMtLFtBrKHI+CVDhMAubq8z8nQoRjjuQ1coUcUMqy3JZTJ0BN4Vwuqz6+oBfWGS60zk6TKAFkgjwqJ3T72QHVjcEzTfK2dGs+w35rTiuIKVSDaRtfouRzylXq44oZGj/Ycjh4skC2jWDDTUOg5c8L+5s4jOmRiicZmobk=
+           -
+             internal_properties : CAAAAAgAAAA0s+eIxCkPVDsDVYtpH6NW7ayohIYxPYc/br1/kRF9yTTUrHTCddNUIHItSOgvvG5/Aw4jAf7m32SSDDDpbxvwH63lhgI8aODZt3dlVljX46AV8VZZRE4KgDzgAEdZisu4bl8lskxTw2mMdKyZptsgCv6lSAtgFMXF7AKSSGpaNgfkpnmS1Dj0n0bflfADbgY12ts0ZBWbLSijQfNVAV7VJxZ2cPDzwvBnzMLZWzhzW1RZCMWqDSG7ZznPSMyRdGUdku9pGym/4iliG7RHgFoQ0qxYQYLiqZpWRB+hPYGsj/nT82Y/2vk4su2DAAImZIW7NBikvoS3D6hh4l//dpKK2PRhW47UPdSjSODr
+           -
+             internal_properties : CAAAAAgAAACJAtDO4NDkPsPeq+54yjuqd1oar7kN6l5pKlYsoWF1QlIZ1SkK9Lram7X12xDW3spOP1WKyJ7cKrFTxWUmK3kz1Guuq/7ujRqVB9j/K/bGrC/GYRyjzgKf5L2osVefMZg9cTAyPWqYKE3sAJyHVsXtjqTtaySPePg3uUYQ0U1oQOyltHhTyl7Nx1iypm8F3aMhBZ37Vq52FdJNdgpbObm2pfCn+tZmlAGaiMoXwvGAbTaAwhbhPhVIE1LIY6rGGSaCkz539aQ8GlNbBeT8oVKHfJ71Yko6qGnWrMQ7n6SGGIuRiZ5iJnLfDeAAczRKyuWxsIuI9mOWaHo78VzPxxqLJmxzJF9Lr67IBHZNExCakuZ8qp8B5M0K41tbdffIW7hKGo/YP4jTZkMJFIbBDm6N+OTr74qYPXSy0DQ0PDaAX756px0w5NXs75z0NYO6jkB2YUKk2p595Go+HWmtp9shucKvHHqmgIE=
+           -
+             internal_properties : CAAAAAgAAACAHPfozDoOAmosN6XGqbG4IPdLIuTm3iXFjuZDixIg8LU8C0Cb7XBcNPSN4DQb/VVp/pNOskQPsXc1ExJoHMhrStFQVZKnv3P547JkUw9tenRDvyiryWYicG0jxKtkO4InkJc2115hsZm3eOcRbgAh0ASqaWDQSnfaNRoK2CwNATJpLpvYHWuB4R3coiaVnC3+WomUVTf6m1S1ZY9ITkdt1q1bci7E3+uUbbBkbhNhdRkLob5EM12O2D6eZNQbrKYVv5EpKs5ekhirYrlpsuKfHX8dYrwzkvl6T+XhZh96eANUBJKFe0g+QssPczHoJVla25iGA0+6HRYN8UcQe6kwMBKKpfOfzSFxH7QMqJ6EJIZjUId7s9XJ02Fn9djIvjOekykUpF4zialewbql2qcNiM6UyaPlEW+eJXT6QbY935ovF8Fo1Hji6mYxjl8fHnCFyBH65bHGe7mjS7/UK8a1ZA==
+           -
+             internal_properties : CAAAAAgAAAAbMDy0N38DFa+O7Xbpg9mStruqKwzbUlrjhwoMQBJETRtNis5A2W8WZd9K65CAzfzgASuFL0Amm5QolJFp3jtUuDF/fFwqvBxd1Sq9zYGAA0euyut80uLMvCs0pRCMEpLvsdjmuuAj8a7Wfkr/3Cx4o3XQBhN2rNcuDSuKJYp7Jr+mwI1z6mlUCK1fuxbswXRppTXR2Xu80Ij5dh44eUu/q6vioZFAexCx1cgFM8lZF939BS9kfw==
+          type : 6
+          controls : []
+          code_elements :
+           type_code : 6
+           p_codes :
+            -
+              code : |1-
+               
+               selon SEL_IMPRESSION_CHAMPS
+               	// État à partir d'une Table mémoire 
+               	CAS 1
+               		// Ouvrir la fenêtre d'impression des produits 
+               		Ouvre(FEN_ImpressionMémoire)
+               	// État à partir d'un champ Planning
+               	CAS 2
+               		ouvre(FEN_Planning)
+               		
+               	// État contenant un graphe
+               	CAS 3
+               		// Ouvrir la fenêtre d'aperçu
+               		iAperçu(i100)
+               		
+               		// Imprimer l'état
+               		iImprimeEtat(Etat_Graphe)
+               		
+               	// État contenant un champ état
+               	CAS 4
+               		
+               		// Ouvrir la fenêtre d'aperçu
+               		iAperçu(i100)
+               		
+               		// Imprimer l'état
+               		HLitRecherchePremier(CATEGORIE,Libcategorie,<§$0001§>)
+               		iImprimeEtat(Etat_Interne, CATEGORIE.Libcategorie)
+               		
+               	//État contenant un champ tableur
+               	cas 5
+               		ouvre(FEN_Champ_Tableur)
+               		
+               	//État contenant un champ tableau croisé dynamique
+               	cas 6
+               		ouvre(FEN_Champ_Tableau_Croisé_Dynamique_TCD)
+               	
+               	cas 7
+               		ouvre(fen_TT)
+               FIN
+               
+               
+               // Désaffection
+               MoiMême = -1
+              type : 17
+     -
+       internal_properties : CAAAAAgAAADdAn5AQ2U2A68C6Jnc7AyWZIS9nUnenQ9HnfZ9XjZvVRAd9i2NfrdNJiYfuBoxR96CIowj0BNjAqMue1LYeos/j54fI4ToCVLBDupc2ePUMVI7jae7WHGNF5MYEbTrjV1g3QMNQNI7yM2DGlsQ+S2+YAuHzxZ+3psyDrUvJNbYbYNZIGmVmD/eKxkKJ/V9bP7esyduadrqgmVoBMCY1B4=
+       controls :
+        -
+          name : SEL_IMPRESSION_ETATS_COMPOSITE
+          identifier : 0x2602cdbd0480cdcf
+          internal_properties : CAAAAAgAAAD9rln0TPj8SXoCBoG+4hM1/KibaA2VpxkkhEImGtq5hgaMqXoAueXy3rmSB0+X1Rx4XL4LxYK44tIKo3y4kdvl29qH5Gk3DJcWMN/t9NPVtY1jl6jmOOIN76Dao8tRvMPGlXapZBuFWJziOIZKdfF6MXeipkwgu3v1F7oMUOiM/W64WIMIPGWag3Xsm5nk+Ff6JnjNEo1NJDRzvYtnDcy0zw6Hgo7TJduM71daey3lulNH1s0Jdl4+Z9yx4yjrZyhCoIVT+ABXmxX7BevIZZv3Ql2nCqtBNlEEUuLIXZguWODfEkp3WrNb8e44kzGm5FmdgYzfpBc5b3vbmxpxPb2/XHSE0RBdMAuw16PazJOK6A+iWZFiI/GX/qeoQTObBnUb3/X5mgpwLwkTW7zWQSEcgONzcrIU8XjJ74z9m+FTWhHHz0PqkjOFfSVK5iJpIsSR9hxrHy2RXwWVg4V2/CyDbU5tP0qQCwegnCD7aje5vlmOjIOYFEwpQXnpYvLvHhKqsMGjFd8DPt9NfRFJvzw7uUDYTgfoAh4bxTYlYkWvu+cQAMazaekGbtvkFv/uw0yQbmg7waTD5G2wujhg8OP4gkcuhcuVgfTh2wgc+MH3VHEIUWXYoQCBxJJ+La/bavyvi1kEQGw+i0eS+87EOtVy94pjxQDgp/Vcj39BptT/V/2kaxNgZPiCHFmfrQhknWbafFv7jwn/lhHT8qGuKICoBBkklaGw7PvT21TEulAH4rMc3MthDX+KdGX2k3MoLoaN2gFdDYarHHaNp2C7cubI4G4Hts9V6csgPWqTWOCxLy0AcwLT8j06ZHGE2uV+0yui7R4A5fB8jCXjREIxLudk/9eXMJU6IzRxbSyVsoYoHpPviez6CnMmHpUQEm+U4zRrIPEN/5VDb7BfMZW5OyFMnNtq2BslV5HrRbC/7/heVvcg+QG25skt7Q/Ic1xKWB28AXhCqc5CeIK4x+p+bGNHxGN8EdeKErlQCt/oOPjuvIkdv9oAtlg5iD0x9FB8KNXqYJ35F2BDYzhGRs6EDAiw7k8XYBUFXECn9fklb9sRNoSq5hpjrVOr4x3fKa8cj7F2jXiU4Ml0rUWirRNraGlVRFhAYxHf6iTh4OYHfXysxBu4LCAgUl1b+HcOq3rNeAyc1grA4np6h4/SbMFb0ja9OZmtI0Tul7mrpXuv9eV/1caiGDO9ukhiREPebW5J
+          properties :
+           x : 6
+           y : 51
+           width : 835
+           height : 273
+          options :
+           -
+             internal_properties : CAAAAAgAAADi189XqOfKIyg5horP4tvEmWTwWaiOmLM3tRi76TdtP+36PpJBjuPJfaVSzpw9m0m9FgULdr5rYf67JV7AxOlHH3TL+/Kprf/AO28lD/TA7zmWkQdcP6L21bXRICoMCyqNSLFeCSrggAjekvXC3pxgzqHT0b+s2PkOphXPs2GbzdDFqdTw7olG5uLe+PPcnUqF3JNJFHQTmGszDdkBmoy+DmzdKzFJhEoTWFWWDmMGlAwfw/xIHFVf1yh6MJ9ZzJR7b5ltXsPgMit/gk4ugxKbTSNNm1yLqcS6Ufm3N3XETAh/zWZFjlhwvHT7x3Alh9DAMEYDGHC4lv1r6JYhUNL36F5+OmiqiKngHHLGZx+6GLZt6OdFXXb2AWgN5i9npnz5LwvKpmzdOAp+lgciQ9dRGkqDQkHnn9AcyGPeMQO0MqtdVwYhG5ANwux/r0IOab9e
+           -
+             internal_properties : CAAAAAgAAAD1ZN69Eaz+ZzNwjfmQvgjdIdPOq6ocpV3En/PhJ+ZN9b0BV8dTldv/YyNt2trOANp1p3657Xmb3Oq51AUaGiEu4mj67Gq34lQZwc19Bv4zWpYY/L6uQRWol7B6DKpHflyitl26Ah4nnqLIoPwlNzfZR6Jm8vc9lvFUEkvFs1pcjlS7BvpLswE4sIsPnaLhlH0O6rkc7kAJRuvEX9H6CVnFrOo7n+yu3obeuabd6+ivZ2dT6Fd7iIDWSvjRteDthVGCl8mW16RbheLyDyfYk83tAigUsFrwfdXaVz84lask8mVhm7QKGRno/cAxF20awphuB8RDEupRuHn35RMuL6Tkh0Ao2uOLASwa5hNx893SecMEq0Q/evi/Jn4RO3ultxK/g3dRS687uelPrQ+OOQ==
+           -
+             internal_properties : CAAAAAgAAAC9Ebc9kIEI6YF3jv1wPt7q3YBHtFgyCssFOPfotwJEgG1Uc7ePyLKkFN3zDTU1AsQ3riTwrU+hmBpbEA2XqFuKwQ/c5TW1FBOBDRYeUgcjfBlKZ12FG7aQyBERKV2wtA0dOkMt/KDR+Vzslf7o5E57a7/sOBrIAopETliLVoJTT9eJFgAu1MtEjfV6CGrbyIhxlLNM9hY11zM9c7takPw1+0UeNDmtyNruOo52Gn65AR0y2RG6N4h6ymTnA9sG0KfAuIb5RXUd8bMVpZBDf8AzdwOmgGcIk3spYxEo3MknWkQrsxDm8JClWb/KJVpcAd7hLsG7NTFMpoxYilOSZX72DUYDz2muT4F51Q==
+           -
+             internal_properties : CAAAAAgAAADJmrOHDvjG4z/dxHcKq0Nv2IH8Dg/tbCpPYUjFTp0yuWclv1SIkcNUpaLaYDyBnR4js32HjlQoct82M9l+IIVbFtH9I6P0J+bXCIaCHvDJASqpH4b9cX7VwC8+++47F0kMBAU0ramnNxhIwJaOncgXrWgDzQyH6i5FsoC+RNLI7n+PvPRrcyKW2HZTjgjwSpIXKXlMhD3ux2+Oheoc+G/2vUEQJDCN5SD9cuTkUeHpt6qFHWEmoRycUiVw75gDP3hpZe6VRo8PH1vxYjOsKtoGsZO8UjM4ryYqsJUNVdHbg/eirMX/IRBzC2K3KZXTL7BhCxS1DJY8Lr/TAzp/tBFfEUE+5WFsVzTU7lHyXy6lFNFX
+           -
+             internal_properties : CAAAAAgAAACfPYvU4cXOxE1bemAam2WD+YccedcrDhNfiFLM+sVpg4vOCWk39AXHItYDdWb5YagwYI1hc3iju23w0RBv1M0I4UJwXrQ3DmhA+/5n3dfvtzRANaZ/0KFMm0ghA4mnDNXAQb1YP5Rap4iOEvw7WJ6Qlug2XVZWpsNYSxTgSt5w5L5Sq3brNamTYO2r9iqpQQOPZLt2J9zqTq3/+Ujp3hKiahMSqJG1OsIyu8GbV1YrvJcs4Xhskb030sxEjo9eHZdsDwFGwO0KRPv/DgNJIsZFS8o+OzEXDJMUGouprzTv2qG0W2/pr/g=
+          type : 6
+          controls : []
+          code_elements :
+           type_code : 6
+           p_codes :
+            -
+              code : |1-
+               
+               selon SEL_IMPRESSION_ETATS_COMPOSITE
+               	// État composite avec 2 sous-états intégrés 
+               	CAS 1
+               		// Ouvrir la fenêtre d'aperçu
+               		iAperçu(i100)
+               		
+               		// Imprimer par état composite
+               		HLitDernier(CATEGORIE)
+               		iImprimeEtat(ETAT_COMPOSITE_INTEGRE,  CATEGORIE.Libcategorie)	
+               	// État composé d'un enchaînement d'états 
+               	CAS 2
+               		// On passe en mode aperçu
+               		iAperçu(i100)
+               		
+               		// Variables locales
+               		nIndice est un entier = 0
+               		
+               		// Parcours des produits
+               		POUR TOUT PRODUIT  
+               			
+               			// Ajout des états dans l’enchaînement
+               			iEnchaînementAjoute(ETAT_FicheProduit,PRODUIT.Reference)
+               			
+               			// On arrête pour l'exemple au 5 premiers produits
+               			nIndice++
+               			SI nIndice>=2 ALORS SORTIR
+               		FIN
+               		
+               		//Affichage d'une catégorie
+               		HLitDernier(CATEGORIE)
+               		iEnchaînementAjoute(Etat_Interne, CATEGORIE.Libcategorie)	
+               		
+               		// Enchaînement terminé : on lance l'impression
+               		iEnchaînementImprime()
+               		
+               	// État multi-colonnes
+               	CAS 3
+               		// Configuration de l'aperçu
+               		iAperçu(i100, "", Vrai)
+               		
+               		iImprimeEtat(Etat_DataBinding_DeuxColonnes)
+               		
+               	// Groupe d'état
+               	cas 4
+               		// Destination de l'impression
+               		iAperçu()
+               		
+               		// Création du groupe d'états
+               		iGroupeAjoute(Etat_FichierTexteAuto)
+               		iGroupeAjoute(Etat_FichierTexteAutoPaysage)
+               		
+               		// Affichage des états du groupe dans l'aperçu
+               		iGroupeImprime()
+               	
+               	// État imbriqué
+               	cas 5 
+               		// Ouvrir la fenêtre d'aperçu
+               		iAperçu(i100)
+               		
+               		// Imprimer l'état
+               		HLitRecherchePremier(CATEGORIE,Libcategorie,<§$0001§>)
+               		
+               		// Impression de l'état
+               		iImprimeEtat(Etat_Imbriqué, CATEGORIE.Libcategorie)
+               fin
+               
+               
+               // Désaffection
+               MoiMême = -1
+              type : 17
+     -
+       internal_properties : CAAAAAgAAAA1ZDsnwtb+tGg8mGRaHrj2IGFASRAnNsWqGxtYfubdbK2SV8z3fGU9KKp4vNiuTZnPJTnxTqVNdyeeStOIqXYAvS2xkoSVUObWIL6vxTn50yfzxHAb79cV2se/y7Lx2w9reRqmTiVxVMwVHTnjNhrzkF4NyYEkk5igO0eUAB4EHzbPzZSfkKpA83l1GO/4WDPzMHjmaLwMLQ==
+       controls :
+        -
+          name : SEL_IMPRESSION_SPECIFIQUE
+          identifier : 0x2602ce1704d22c17
+          internal_properties : CAAAAAgAAAC3h55l34BRUZ4LYAvKCCtUL/fJC4Ca4gXYZ17TtCyD3zPg97meN+2SuDIBv/NNnE6nvJu+RlweW5uB1YErNpV1NgJuddQHzwiJUW/FLL6cjz8umNuJdbXSS0/XVHiH4/JFffWt1eVYKcl+5Ihp9yXqysmmEMSzFB44Xc8lzoomjdyvlTukZOYJ2kp87HlmHfuE0DKUtNJwy+uBMuDHD2qxML0KtR6Gip54+AtTIDh+FS2zwBQBJIRBZEYwrXjiDyrDgmynSbuJY6Pl/00+ROdIpPCVOPp3l+ajio4j249LpRcWlRXo+iJqNjO207fmXbrq6WPK5+KyjLskc3T/kgecPRPDKAXMjFRVTtb3bTenw0L/QFjiUwLQ3yw7sUMNwIiOzbH6+XNznFNylZeO3tRV1awsMJUGm7YmeJ0s+7uzrEVBEMTrbcxANV3luZ1libgWWW9V8G/09J3qLKELIm4S3CaLAZFoz6XW7MVVNc2e54xVcBzvpFIQMIedLXgoSSqp9exfgs7VqSLVAjr87RD0NiL9LQvXw6AaCEXJJhBQV6hasrBBst5FacCiiaeUAAWMRBjeLGzWxS8O+hsXOPgjer31cC/G2B2NrTCDDEml7aNhGL8cwY86P8M31IpsNR0TRu3kd5UgaV6HDdLrlntGGd9XO2XXHGuXrLLDsXRptECZE57jti4pbtxz8ONzpape4RmhjDxys6mX+7XUqgw+IG6gX1bk2anFQqKZM4MhS1LyyUaa+2o2EJOvbgqC6wn1/A+KIU5cuml6Nadms5wiKGYoBKbi7C/AntN9dhft+XQyGtrbEvPRSpkSHVOKfyV4aCMIZeIKs1QfaqeqFU0Yq/l4TRSXvfavrZFWQNHW11P9Lp0fbF0sD3SgmF4ZFj8J4x0rkU0wixhVTKjAD4aj/gNocN4j9ThwxKfPpEJBDTL4vH+jHz2o3I73lfN/QtUxNdBZm6In8WUzb3FmvOYuJ2o/98hgiBK3rjo4PaG0lQ4cMyhF5i0lmqUo7i4sFQBaGYleW4uWf5koy2b7yYSeac2WS3IOEDzF1xJgUksz0lJnaZSDZjOT6CVQcMISF657JmqgJpuV+eRI3eKmXj8VqAJZdeToyONFbosvlcQKHX2Cyk14lnqgJzR2nkSSYyumccYE3WfEuD8M8QdTngeqZyCUTLw0FEsecVgnMfC4u/fHoiNHUNFndJau
+          properties :
+           x : 4
+           y : 24
+           width : 838
+           height : 331
+          options :
+           -
+             internal_properties : CAAAAAgAAADhBuqBWExCQqMvco3i1eH8b6cXswm28Js4LmWC8m+ut/C0/FfwP/ALKrufDg1AnNkzjEyLWYGeRM+KpRdgM+lntrJkfe+izItCSX+rRt+NX9pC8ox9+7kE4htuMb7j/S3lTLBrXdTkSO9XugahwpsN/srnI2jvic7RUMwHPpRjkHBbLb3+DBahu2jVdOoH2GigEzk5TXZ8z/AXHnjf1BUZdmrGpmeoK49ib54AojHVonjq5cuxb3rzLMbx9Bq7UDWErL7BlqowJsrLp5YT5ygCMbaiQkR1lBgEwLtTmJWtuoz9CW1SCKT/InlO+2H/ghYyh8/fIoTr9eSk+dXf7drs9Q9Ozs4z6mZi8qvchVHYqNVqS39n6ssYmC1/VNnBIgbqeRTFuFtJenHqF4G/2HpkvbbPDP3r4Cv8mWVfsXLTuJfGshW6TDr88qPXKOJz5Gs=
+           -
+             internal_properties : CAAAAAgAAACeiPf1QT9RrmjXUNiIFfRbY975MvphIyEo5vES11wZ1H8q5KA14JS1iz4tRzqEunxLigzEY2du3lPwDyNqRWpfBuCfw+TMvG1YayV721E9VsXg//XmlcBdfyA/B1jVUYRjaBVcfiNqmDBbvItNJWpaWMoD8GhzT1ri3b90mN4rAfeY0aFTa+pbO96fkBjk7gjqFIgzns9r+O/hLaK2DAFUHsnKhoIb0IqCRcHUbmbh1h+0iiN7udjC2oEd10CtTXR/BUOX4i+5op9JjDQoH8ss0JSWpVL6NCXMjy94XK1d2o9tAu+PcricfeFWT1hhwHpwQJpxtaVWrGFr9QCkvcNmzJhEQd7ef/rcpBOzsbn6mfhVSVlXd7g9YitVxr3EZ/VTfE8rQLqllGaKQIvXrKNhJrmd0qZNP2oCnjn6Fo8DplW4fyG044Hozq6d/qusvyqEAU1ws/BU3RN7yB3NJXDUgIbiw2VF/Nq0
+           -
+             internal_properties : CAAAAAgAAACvzckugBxclG1KSBfoU45AfXgGdYw8BeKMJaNzIrW0SjuoCggdaHG8Cp4I3xlepiTEoFsAqsK9IrRTohQ6f0xQIhJ5TLqSprFFcOxV6gnl/XyUNknTP804BV5NB+6Pdppw/hdKHzjvxNZ7tWrR/XNqRUgmdcjIvaVPP69etVmrRtaDF6o1wc98GhKZD1EwZgTsi5Elr0HPwczAtbFw3nu0aciNqj8FXoEOfIACwdC5uuBY8niSW1O9ToUwp3SwaDNyiyoxSRRdjxgE4N3cBbICBu96wSmjODG3ZQSj1PL2pRdZkl0EmwgjavStBLLjSwuNjs7UmQmgpQ==
+           -
+             internal_properties : CAAAAAgAAAD0WpwsaEFxzAGaj4QHCrT25hGxaN7sOe3KogT/tiouhzqv3F+LHkCv5vzT2VYuOW4roeHPXRQDzj+vsopEvDQBZhxvG0OXHBlPH4ipo2jrahn3UfAslIp1fYidOyJMo+qGpsn3DQ0BV7o2sCanSg+VJml9N9lh7ara/T28oq8JOCqXw4HIcqyRgyzPxuNyzxPbkmSqI6wINePzPFpNd1lJwMaBOsh7Sbw1Rvm5TSdg33UvdzFUBiGd9V597ZdPWbaRd8L4en3w0m2U21Mvl+1gyb3myxYGIAsODCEQS44sYu4GJPFn5CVrLSZC2AfuPgEZhGEGVrC2BsrPyLWQt7ldgLiaitVqTC0SlNLIAC7fmZJM88Hh5FRUf0aGtGCtnWB8XZdsm83q8Gc1RZLGpZdycf2RGjWq5BY8
+           -
+             internal_properties : CAAAAAgAAACXF+IIKDe4EaCFw8g+MzjuWK5uzvaSkX+wuT5N/DKrmTvnkww/9VdKlnRnq9zeKW1+kWLuK5Q9wKBKYQm+do2kn46eSjAWv/ytCh9JlDfveLDDR2Pg++3TYJdGLi1kdILZhTd6xQVoQw+YlIXig1yyJ1Cy17u1Ytk0nv0iYm6q5pPLt5K8rLzQDW5ybQd6GsIlYd1GnlrFkDnjKZ4fjWTMXMKZQ+6nGNDTgEu2N0DmgW6n9zcR/Q+Gu6Y6y8T8y+kH8adTRv907wK3TJKOnt93o+IuTlmKWlm9W/CgfIhJgGrfRovQIAfZhH4w4fztMTAn4WIaGP03BmrEHz7L2Tmu2MdAVKEVUW/qZfMuQETnBpts8Rpkwm23ab55KlKzzwKPFo2SS8xGrelLP2xxesA=
+           -
+             internal_properties : CAAAAAgAAABroPfkcB8evZ3SxQdvj0ILiJI1m9VJDZALUlTaJ3hutU3OCLARwguNAGeuOmbgJow3pY9Nx9CGPJauQtyUgrL9kARHAHVyWmR9rjPHlC3CoEnOmqh8wnmmeoYkyEl0PJzw2Rof5yZ6Bz5s548r1Z+3jaFB+5NfGQYeRmd4BPHeeOg0UqtacGFVfNcsoKe4cxw+OArwYpIvqRaa3etb+cEgZiwuJa9PjTzbhYe2gv1s+GntQms+UjWuI9CNZRqHSyx9zcTjNWTKL8zAZN1ipL3LE0LDLy0zkmxOLAZTXgTLycr3FW5xWkh+xEU0P0+LxvFDomVZx/iiIsF5
+           -
+             internal_properties : CAAAAAgAAABuCJq2za1Zi2lAGTGdOC2z1Q5FZ/yvx6x5UV07ll1BHMHRA+vV4T9ZawR7u5zhZcF6lqFrzGEwoYYORv36lqJ7kVZ5nvGo9bQpthjLovMWqYuv1406WIzqZuCKNW79lssi13FWSDhMNhPUzhSbO8Ly+rF2bkjRCyoprr0jBybfz01RpzcPMSugas+kjy7SmbOpvrQl3u48APKoRJe4m5eY7vM1L98tkWnLmlnKb/Ant1p3Vddvph/XjMQBoK3H4dtXIVas/crRqLNh7Q==
+          type : 6
+          controls : []
+          code_elements :
+           type_code : 6
+           p_codes :
+            -
+              internal_properties : CAAAAAgAAADSezZS5Wi6oUmuGYJDAEIleogLF5yQ7+wOgIKD3diaPapohep6tp9kU219h7rIAsuVEqBrzLtMCiwxk5vTZrxjYuSk9bmVj7cEeBep9sNkE+WN6+zTM1esWrjHyJI3FA+DYMTI6/sVEjqFxq3RjTlU+Qo7OCcwQloDT8J6Ws4Fi+ijCJ2CfqW6MVpy5QCExYeW
+              code : |1-
+               
+               selon SEL_IMPRESSION_SPECIFIQUE
+               	// État à partir d'une requête 
+               	CAS 1
+               		// Impression d'un filigrane en fond d'un état
+               		MonFiligrane est un Filigrane
+               		
+               		// Texte du filigrane
+               		MonFiligrane..Texte = <§$0000§>
+               		// Police utilisée
+               		MonFiligrane..Police..Nom = "Arial"
+               		// Le filigrane sera imprimé en centré horizontalement et en bas
+               		MonFiligrane..Position = iCentreH + iBas
+               		
+               		// Impression dans l’aperçu
+               		iAperçu()
+               		
+               		// Indique que le filigrane sera imprimé lors de l'impression et dans les duplicatas
+               		iParamètreFiligrane(iFiligraneImpression + iFiligraneDuplicata , MonFiligrane)
+               		
+               		// Lance l’impression de l’état
+               		iImprimeEtat(Etat_DataBinding)
+               		
+               	//État PDF avec champ de saisie 
+               	CAS 2
+               		// Variables locales
+               		sNomFichierPDF		est une chaine = ComplèteRep(fRepExe())+"testpdf.pdf"
+               		
+               		// On veut générer un PDF
+               		iDestination(iPDF,sNomFichierPDF)
+               		
+               		// Génération du PDF
+               		iImprimeEtat(Etat_Saisie)
+               		
+               		// Affichage du PDF
+               		LanceAppliAssociée(sNomFichierPDF)
+               		
+               	//Impression mixte Portrait / Paysage par programmation
+               	CAS 3
+               		// Utilisation du mode aperçu
+               		iAperçu(iPage)
+               		
+               		// L'état portrait contient l'impression d'un état en mode portrait et d'un état en mode paysage
+               		iImprimeEtat(Etat_Portrait)
+               		
+               		
+               	// Impression mixte Portrait / Paysage par état composite
+               	CAS 6
+               		// Utilisation du mode aperçu
+               		iAperçu(iPage)
+               		
+               		// L'état composite contient à la fois des pages en mode "portait" et à la fois des pages en mode "paysage"
+               		iImprimeEtat(ETAT_COMPOSITE_SIMPLE)
+               		
+               		//Etat des étiquettes produits avec code barre
+               	cas 4
+               		// Ouvrir la fenêtre d'aperçu
+               		iAperçu()
+               		
+               		// Imprimer les étiquettes des produits
+               		iImprimeEtat(Etat_Etiquettes)
+               		
+               		//Mode d'impression
+               	cas 5
+               		ouvre(FEN_SortieImpression)
+               		
+               	// Impression recto-verso
+               	CAS 7
+               		// Ouvrir la fenêtre d'aperçu
+               		iAperçu(i100)
+               		
+               		// Mode recto - verso
+               		iParamètre(iRectoVerso,iRectoVerso_Vertical)
+               		
+               		// Passer les paramètres à l'état
+               		// ici on affiche les produits dont le prix est supérieur à 10
+               		iInitRequêteEtat(Etat_Requête,10)
+               		
+               		// Imprimer la liste des sociétés
+               		iImprimeEtat(Etat_Requête)
+               FIN
+               
+               
+               // Désaffection
+               MoiMême = -1
+              type : 17
+     -
+       internal_properties : CAAAAAgAAAAvSlfp1Wi+QXxpN3aaiuuYkonB84F2wY1jvfp/qJYc4NPiKmUX22eNhZB+dyPQ+nq7UvDsOKOa+Gk2jlUvxFpQi4k1cuLtrljO2ve+mRYaTxGJ+iYO17a14gsQGPS4lhvT3fqKza8+sgDt9CjoHlriM9X6mIc7s8vdHCvW5mG6KzwjA/rrv/fJSCgymnZOPYlVLYr5FL8=
+       controls :
+        -
+          name : SEL_IMPRESSION_CLASSIQUE
+          identifier : 0x2608efca0166d1d0
+          internal_properties : CAAAAAgAAAAms/f+GYXtfZLfZ1Z85HdradDZdfv3qQ+M58bAyxyilMIwzVSz1XNW8EQKPoKx+ewPvI5cbUgulc9hsAKKJdyfb0Kpf7csHe1vRu8A0J8lR2RlhvOQAwRxeoao/K7taUuaPedAbpkpe7WSYhZr8E0scGk6+jBtjYlAokkXWZPf1bcg6mkMmOqJSyrZLSGShEMf/PUY3+akiPRriPb32XbIgpy3nmg/04KjDZWv3P+boqNu6iw9BBjBy0dxEIQItbI+UfC6pV50OgUoelGrLEUfC/65tUmrIGA3IiH6UF/RCDIAePtl7jr55e/0CZERoTKpPR9oj+kTcFSPtFIqd+ZMKHwRJmZWkTtvif7isyh/YYs/7p6eaZ7u50Zox5JkxR3gEunaV210ad18hQqOjSJ2dF4ZY1AgIPuI88UkFySjkaGYEXBPGlRTqA9+RiZ8Tb6/aunF2hmmSP1n3Ezxm2ogAIuSb5wn+++R4+xSEGIVLu8kSM3hDKo+iWsoEwJToAyPzYg/qLT+8886slzIDJrTulkzaKU616yKqY7Czjps80aiPvgrYMZVxTyxwyijg6HwVz52IoPSRMIdSpaUTQCr7RFekj9YBhs21nWeDiSJ7J6TA96dPKzM+AGzz2wxl0eXk85E/qfYiwNJVxSsHizkJ/WpPnEBmAAxrb0/62oYtCyj31NLmo9keP9NdspnZpK3OEdVkDzYHMZsEU4RMejVovssoTAiQGz/n55LZvJAUCHM7s+WvWRX1fxYH2oo/Q93Zp4fZnH60963FhYioxmw0jyy3lihW5zFQFYNpHkjGhiD7APyuaCxead8iwwVOVHWX5bp183PG9U45iVzAKWTfj25scuE6ZZIh31yxcPMCElP6QbKivpTvpuj0Dotx03jFr3njwYrXKHSMsWpANn/pfBv6MdDqhs876noZamQ1EhwrgjilJJ/1MyfAArLI46PB9hVqiaDsDePFNx+hyMOO/g6x+hNSlskFwXWCOFMLuUwjB3lqY/lYD6hjYAh3JFt2qODCO6GxYfnppT0qhVgA3WFzIrFU10uo3efz/3hq3YynAx2xkQnE+RtTeUzzwkqhV4+ht8FCOkDiqMTOVRf4p+oB2CaY7tDoAbx1YlMmz2EoYE89qqyJHT/TVOH9kCXwtB8x1xxQhdtoiWiVlmWQuF7XULd0xuuKSU=
+          properties :
+           x : 6
+           y : 32
+           width : 835
+           height : 311
+          options :
+           -
+             internal_properties : CAAAAAgAAABpUKCqoydtXncRAnYDYxZLC7JbVbdPJgb7ca3hWGysDtA0HpBIm7pYkO+2T34Ea6QhgND27SSBqYqr53cFZBcNmoYYDZJOxhTMFYT1xZXUd/LnKqhiUP+vSnzOVS6Eb4dTEHuZUKM9CZq9GIP8G1ZCJf8PB+lDZZJOHD5onS0af5UaVwmdFhaHdiAnnL99gNGMdlrwzTSzRQZanF86h1xfJa/RFPrpiQVcDgupa9bUYOE=
+           -
+             internal_properties : CAAAAAgAAABAVXt/cjwO7NxDMiSdtngJPQDrFiKRBZvIVpar/8bFVsbDUq0zHBOLs49I6MNTNbYjleuxCTwDum+ZFJHFJSb/QjEvhiC6k99huyhJznleVX48cNW0dFKQErlg+CGJ3R+shqNj5/Jx16YFDZXoo8xEg8X6cMG21V1THlzZ48VDq9Cr01K0qi/OjZEk7gvbUybqRcbqXg1TKBLAq9iZiuxUFbojVPp/TKdoBSk8cpIOBiK6Smo/pA==
+           -
+             internal_properties : CAAAAAgAAACSmEaJwkHHL2j3nJdoQEWhc0HK4gYufIo5asymHuGOGHMVRu4UX/KkdY1ym3P2yj14Zh0JfTsHIWJriGwONLpVubKGbbW77Q3/wOJ7mppwCIfcMvUWKLXRC2hut/WHejfZE1iT7ftuPk3j/9o9a7AAieAbiWO3dAitGG3dBmMYa+eTBdsn/FSY1rLK4iXV/X9CERV3LBZR6/yikGxExwdQhq5pyEj2hGphu3M=
+           -
+             internal_properties : CAAAAAgAAAB9S5s+GiAzmV1gUD6Wicxl3DoBnA8ljkgBGbgv6Z7urMW61RAUl+cd8YWhqQFNvntNQkjXq+1skIaxlBTDpqpGcXMKnLQYWfZcN6QBc0xm4fZOAZ1smfjwykSt4+OMJn5PYkKBDboomRJlIXeNrTe7hdcs2mD9npldI8fUwlpNhSnv5UzZxxi3ny3XhZOlcezSgnitI+hpk6pN3EpuAi+0PU0oiOq1bzLTHS52n5csqFDk
+          type : 6
+          controls : []
+          code_elements :
+           type_code : 6
+           p_codes :
+            -
+              internal_properties : CAAAAAgAAAAlD3M3jRaDdg9Mn1oET7DJg50MXChNoxuPcvOgCFXPDxFcLrhzEFEN2IND1Agm3X7XejoQIBSyZL69KF3Q4K6ETTFUm9Xc6LiE7kL8BoJIWmspGDOKm9bnYChNpMcxh7T1dUcxMihvidVomcI=
+              code : |1-
+               
+               selon SEL_IMPRESSION_CLASSIQUE
+               	// État composite avec 2 sous-états intégrés 
+               	CAS 1
+               		// Ouvrir la fenêtre d'aperçu
+               		iAperçu(i100)
+               		
+               		// Passer les paramètres à l'état
+               		//On passe les paramètres de la requêtes si besoin
+               		//ici on affiche la commande 5
+               		iInitRequêteEtat(ETAT_BonCommande_classique,5)
+               		
+               		// Imprimer le bon de commande
+               		iImprimeEtat(ETAT_BonCommande_classique) 
+               		
+               	// État composite avec 2 sous-états intégrés 
+               	CAS 2
+               		// Ouvrir la fenêtre d'aperçu
+               		iAperçu(i100)
+               		
+               		// Passer les paramètres à l'état
+               		//On passe les paramètres de la requêtes si besoin
+               		//ici on affiche la commande 5
+               		iInitRequêteEtat(ETAT_BonCommande_classique,5)
+               		
+               		// Ajoute un etat
+               		iEnchaînementAjoute(ETAT_BonCommande_classique)
+               		
+               		// Ajoute un PDF
+               		iEnchaînementAjoutePDF(frepexe + [fsep] + "ETAT_cgv.pdf")
+               		
+               		// Imprimer le tout
+               		iEnchaînementImprime() 
+               		
+               	CAS 3
+               		// Ouvrir la fenêtre d'aperçu
+               		iAperçu(i100)
+               		
+               		// Imprimer la liste des produits par clients
+               		iImprimeEtat(ETAT_ClientCommande)
+               	
+               	CAS 4
+               		// Ouvrir la fenêtre d'aperçu
+               		iAperçu(i100)
+               		
+               		// Passer les paramètres à l'état
+               		//On passe les paramètres de la requêtes si besoin
+               		//ici on affiche la commande 5
+               		iInitRequêteEtat(ETAT_Facture_classique,5)
+               		
+               		// Imprimer la liste des sociétés
+               		iImprimeEtat(ETAT_Facture_classique)
+               	
+               FIN
+               
+               
+               // Désaffection
+               MoiMême = -1
+              type : 17
+    type : 16
+    controls : []
+    code_elements :
+     type_code : 24
+     p_codes :
+      -
+        code : |1-
+         
+        type : 17
+      -
+        type : 292
+        enabled : false
+      -
+        type : 293
+        enabled : false
+  -
+    name : LIB_EXPLICATION_ETAT
+    identifier : 0x2602c9c9031a5f11
+    internal_properties : CAAAAAgAAACO+fBbcTxEgPPXh4lkeAK5tU0wH8DLX7tdfcOXsOH+hirdJMtAVcLXLHaKC9a+1NkYCSAtiJC1EafRJi5QaLzv784e0Mao6xOyzc6rVzUYLZTl/DFuAOZokh1pa5T4f2/r0MZXAoqIyl8CMqnNPgjRRyANqv0pgxptsLJsaTSaUEucxVKFwERW1JYFvjuHplIMmmKjsCPogmJ0DPlX8zOnXmedHWodB41FFvpWYOlD0hykMHqrImy4sa/a293WzvFbsg6PTPZVr3ErhCp/2XN2y+DTg8L+2KowBEBDnLk1A6gMJjEbIKkNR4e1e1vCE8t37xjsqhwzSHW+9+3G541SSnO0c411hL2PyAUJEDu/wYtIsIeDwp45bWmSf6VlFACZFDTHh/dk/3cV0tlBC42h8FyGQfH2LLH9Y2niiQN6zTIRylUZOhrQ7iZWwDBx3R6x6yN1y/w1UFbgGdhOsN8Sqo6fhVP5hrXHvx6xQJsNc9lSBsdAFbGWSTzEW4keu8irc4oibfC5NVZUxOcOn+rLaCUbj8mz10faHoH0arkCHES8CKUBnR24GZKWRqOA2qwIHMOMDZ36dd4sFKSc1H27Gh+NdQvxDgAOnZtuGJUKkLW8AslvBSpjZ85GKzco/eG82P7Lp5m30P/3edmGtlqqmNNyzZ1KOpr1RjHWFfx4/2a5Ptv+fMeM8ftpYYxI5a1nIED0YiC8/p0l6dVaT/6Tj3pQsFLviFM2392+lcOzZJg297wrCYmiXCRry9drfCTUDz9Q8uiNCZEVmUj40nVmg9TGAe2B72joh7D1JxJBX7kRbRmFW4RbIaht/gR2SHqKwYdDsNfgpNzeI6AN0sZwyw88NoRl/TcuitB0Mnzhi8FZ9+j3yU52+apz3dtmfX02M6lWZD8pqKPpJ3YEYPnuJP26pkIAcrumkOI+djlbbjVAkf5OarkkNcrQcQcss/CQvqqp9cep5zmFpwWtgXpwx/YWGfvBV6KoGeKqhHe6LYqJCvMEbIAlCh6sHG2kGXaH6TQmzxfDI6P1VUV2iUtMvi2OEkWnkkZ1ioEWs/zntrdyCwEI8wrmCLqZCqbgwvV4Fkmk4auqlunHIwG7ZSBMwiqBcg==
+    properties :
+     x : 6
+     y : 6
+     width : 847
+     height : 67
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
+ menu :
+  name : Menu
+  identifier : 0x291abde46e1b2167
+  internal_properties : CAAAAAgAAADAfZ27Q+jJ/MBXHLGCb7PyE2Yqjvuo9mAX2ZN+LLuyQtzms1431znXR0sNCCeLESXZp1gqmo+m2mUhb2ELR2phZ8VOgUSyXddfQyxpxffipvH/iiFuFkCLgpjx1Ah9/9/ndeRpWb0s9Qcjy8oPtW3aMcRtuglgDe5Ch9/jnC/Drp19/hhf+qz96diLw5T0yWlzg33c/E8hhMwUBdSOV69/8iDQGLfTvLoTvV3YkiQ5Dce7dxB2gUx1AVvVTykQMm7G+0haIOV568KMGgPEJluRN2XjgQ11Tb8vVxt6P2g=
+  options : []
+ languages :
+  - fr-FR
+ popup_menus : []
+ message_bar :
+  internal_properties : CAAAAAgAAABAo2iGuH5Wp+WXT9ATHLl0D5YbWA1kQTPGK+Lh5hGKGvg5URzENlJkd8OEeHb7S/8VYu6eoH4GJuSyXtet4KfhoVCahtlE6WUu7sayrAQepbxtCBpOgiUKDkyVKAN0M8A=
+ actionbar : {}
+ code_elements :
+  internal_properties : CAAAAAgAAACvhiIr8gSQ5loUp83uTso9CuLc4dExenO6nYq0wt6wNhhy8DIKk+8xrI7GMink5ce8SLehbaZBjJVyvy60Arg=
+  type_code : 1
+  p_codes :
+   -
+     code : |1-
+      
+   -
+     code : |1-
+      
+      //on désélectionne les listes
+      SEL_IMPRESSION_DONNEES= -1
+      SEL_IMPRESSION_CHAMPS= -1
+      SEL_IMPRESSION_ETATS_COMPOSITE = -1
+      SEL_IMPRESSION_SPECIFIQUE = -1
+      SEL_IMPRESSION_CLASSIQUE = -1
+     type : 34
+   -
+     type : 180
+     enabled : false
+   -
+     type : 230
+     enabled : false
+   -
+     code : |1-
+      
+     type : 2
+   -
+     code : |1-
+      
+     type : 11
+   -
+     code : |1-
+      
+     type : 12
+   -
+     type : 17
+   -
+     code : |1-
+      
+     type : 13
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+resources :
+ string_res :
+  identifier : 0x3b8a73023d31a3ce
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+  strings :
+   -
+     text :
+      fr-FR : Confidentiel
+     index : 0
+   -
+     text :
+      fr-FR : Bracelet plat
+     index : 1
+custom_note :
+ internal_properties : CAAAAAgAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
+associated_test :
+ name : TEST_Menu.wxt
+rad :
+ internal_properties : CAAAAAgAAABoAN7PLpwJW3EiA7WVZdCA5EwrCA1rvutcDHooMWKe
